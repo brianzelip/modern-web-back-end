@@ -13,3 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - branch: master
 
 Turned the glitch.com express starter app into a MVC-structured app. Got the hello world working.
+
+## [0.1.0] - 2019-05-28
+
+Initiated project based around the glitch.com express starter app's server.js.
