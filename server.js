@@ -12,7 +12,7 @@ const app = express();
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
 
 // Application Settings, http://expressjs.com/en/api.html#app.settings.table
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', `${process.cwd()}/views`);
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
