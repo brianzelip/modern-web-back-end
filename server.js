@@ -3,6 +3,9 @@
 
 // init project
 const express = require('express');
+
+const routes = require('./routes/routes.js');
+
 const app = express();
 
 // we've started you off with Express,
@@ -11,10 +14,8 @@ const app = express();
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
 
-// http://expressjs.com/en/starter/basic-routing.html
-app.get('/', function(request, response) {
-  response.sendFile(__dirname + '/views/index.html');
-});
+// create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
+app.use('/', routes);
 
 // listen for requests :)
 const listener = app.listen(process.env.PORT, function() {
