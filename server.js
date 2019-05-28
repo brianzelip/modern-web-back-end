@@ -14,6 +14,10 @@ const app = express();
 // Application Settings, http://expressjs.com/en/api.html#app.settings.table
 app.set('views', `${process.cwd()}/views`);
 
+// use a template engine with views dir set above
+// http://expressjs.com/en/guide/using-template-engines.html
+app.set('view engine', 'pug');
+
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
 
