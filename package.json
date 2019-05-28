@@ -4,7 +4,6 @@
   "description": "Back end source code for the TCAL 2019 workshop, Build a Front End! Build a Back End!: A guided hands-on tour of modern web development tools and concepts",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
