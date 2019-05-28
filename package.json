@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/brianzelip/modern-web-back-end/issues"
   },
-  "homepage": "https://github.com/brianzelip/modern-web-back-end#readme"
+  "homepage": "https://github.com/brianzelip/modern-web-back-end#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
