@@ -1,0 +1,20 @@
+{
+  "name": "modern-web-back-end",
+  "version": "0.1.0",
+  "description": "Back end source code for the TCAL 2019 workshop, Build a Front End! Build a Back End!: A guided hands-on tour of modern web development tools and concepts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianzelip/modern-web-back-end.git"
+  },
+  "author": "Brian Zelip <bzelip@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brianzelip/modern-web-back-end/issues"
+  },
+  "homepage": "https://github.com/brianzelip/modern-web-back-end#readme"
+}
