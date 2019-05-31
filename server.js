@@ -7,6 +7,7 @@ const express = require('express');
 const routes = require('./routes/routes.js');
 
 const app = express();
+const port = '2600';
 
 // we've started you off with Express,
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
@@ -25,6 +26,6 @@ app.use(express.static('public'));
 app.use('/', routes);
 
 // listen for requests :)
-const listener = app.listen(process.env.PORT, function() {
+const listener = app.listen(port || process.env.PORT, function() {
   console.log('Your app is listening on port ' + listener.address().port);
 });

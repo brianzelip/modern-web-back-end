@@ -6,6 +6,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.3.0] - 2019-05-30
+
+### Meta
+
+- starting point: v0.2.0
+- ending poing: v0.3.0
+- branch: swapi-endpoint
+
+### Added
+
+- swapi route endpoint
+- swapi controller that GETs hardcoded swapi data and res.send()s it
+
+### TODO
+
+- make hardcoded swapi controller data dynamic via request params
+
 ## [0.2.0] - 2019-05-28
 
 - starting point: v0.1.0
