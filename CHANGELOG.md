@@ -6,7 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.3.0] - 2019-05-30
+## [0.4.0] - 2019-05-31
+
+### Meta
+
+- branch: get-req-params
+
+### TODO
+
+- parse params sent via request
+- use params in swapi get
+
+## [0.3.0] - 2019-05-30 - 2019-05-31
 
 ### Meta
 
