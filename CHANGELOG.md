@@ -18,6 +18,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - set up controller
   - fetch swapi data
   - serve it on GET requests to endpoint
+    - maybe use axios for raw interaction w/ swapi, or maybe use [swapi-node](https://www.npmjs.com/package/swapi-node)
 
 ## [0.2.0] - 2019-05-28
 
