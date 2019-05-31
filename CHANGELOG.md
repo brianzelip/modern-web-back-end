@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.3.0] - 2019-05-30
+
+- starting point: v0.2.0
+- ending poing: v0.3.0
+- branch: swapi-endpoint
+
+### TODO
+
+- set up route
+- set up controller
+  - fetch swapi data
+  - serve it on GET requests to endpoint
+
 ## [0.2.0] - 2019-05-28
 
 - starting point: v0.1.0
