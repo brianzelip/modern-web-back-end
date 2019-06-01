@@ -12,10 +12,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - branch: get-req-params
 
-### TODO
+### Added
 
-- parse params sent via request
-- use params in swapi get
+- routes.js: add resource param to route, `/swapi/:resource`
+- controllers.js: parse req.params and add :resource to swapi GET url
 
 ## [0.3.0] - 2019-05-30 - 2019-05-31
 
