@@ -6,6 +6,6 @@ const router = express.Router();
 
 router.get('/', controller.homePage);
 
-router.get('/swapi', controller.swapi);
+router.get('/swapi/:resource', controller.swapi);
 
 module.exports = router;
