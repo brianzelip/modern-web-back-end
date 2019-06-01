@@ -8,8 +8,10 @@ exports.homePage = (req, res) => {
 
 exports.swapi = (req, res) => {
   const url = 'https://swapi.co/api/';
+  const resource = req.params.resource;
+
   axios
-    .get(`${url}planets/1/?format=json`)
+    .get(`${url}${resource}/?format=json`)
     .then(payload => payload.data)
     .then(data => {
       console.log('\n\n\nDATA is:::', data);
