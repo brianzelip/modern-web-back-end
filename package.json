@@ -1,6 +1,6 @@
 {
   "name": "modern-web-back-end",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Back end source code for the TCAL 2019 workshop, Build a Front End! Build a Back End!: A guided hands-on tour of modern web development tools and concepts",
   "main": "server.js",
   "scripts": {
@@ -19,6 +19,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "pug": "^2.0.3"
   }
