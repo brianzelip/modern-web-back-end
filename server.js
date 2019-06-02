@@ -4,11 +4,11 @@
 // init project
 const express = require('express');
 const cors = require('cors');
+require('dotenv').config();
 
 const routes = require('./routes/routes.js');
 
 const app = express();
-const port = '2600';
 
 // we've started you off with Express,
 // but feel free to use whatever libs or frameworks you'd like through `package.json`.
@@ -30,6 +30,8 @@ app.use(cors());
 app.use('/', routes);
 
 // listen for requests :)
-const listener = app.listen(port || process.env.PORT, function() {
-  console.log('Your app is listening on port ' + listener.address().port);
+const listener = app.listen(process.env.PORT, function() {
+  console.log(
+    `Your server is live at http://localhost:${listener.address().port}`
+  );
 });
