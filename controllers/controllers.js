@@ -12,10 +12,8 @@ exports.swapi = (req, res) => {
 
   axios
     .get(`${url}${resource}/?format=json`)
-    .then(payload => payload.data)
-    .then(data => {
-      console.log('\n\n\nDATA is:::', data);
-      res.send(data);
+    .then(payload => {
+      res.send(payload.data);
     })
     .catch(error => {
       console.log(error);
