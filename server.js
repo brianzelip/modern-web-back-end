@@ -3,6 +3,7 @@
 
 // init project
 const express = require('express');
+const cors = require('cors');
 
 const routes = require('./routes/routes.js');
 
@@ -21,6 +22,9 @@ app.set('view engine', 'pug');
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
+
+// enable CORS header to allow cross-origin requests for data
+app.use(cors());
 
 // create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
 app.use('/', routes);
