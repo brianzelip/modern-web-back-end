@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.6.0] - 2019-06-02
+
+### Meta
+
+- branch: glitch-deployment
+
+### Added
+
+- local .env file with PORT=3000 for glitch (glitch is particular about her port num 💅)
+- server.js: Install and require dotenv, update port logic
+
 ## [0.5.0] - 2019-06-02
 
 ### Meta
