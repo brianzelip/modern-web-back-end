@@ -3,6 +3,7 @@
 
 // init project
 const express = require('express');
+const cors = require('cors');
 
 const routes = require('./routes/routes.js');
 
@@ -24,6 +25,9 @@ app.use(express.static('public'));
 
 // create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
 app.use('/', routes);
+
+// enable CORS header to allow cross-origin requests for data
+app.use(cors());
 
 // listen for requests :)
 const listener = app.listen(port || process.env.PORT, function() {
