@@ -23,11 +23,11 @@ app.set('view engine', 'pug');
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
 
-// create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
-app.use('/', routes);
-
 // enable CORS header to allow cross-origin requests for data
 app.use(cors());
+
+// create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
+app.use('/', routes);
 
 // listen for requests :)
 const listener = app.listen(port || process.env.PORT, function() {
