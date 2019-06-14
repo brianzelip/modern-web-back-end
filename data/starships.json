@@ -41,9 +41,7 @@
       "MGLT": "70",
       "starship_class": "landing craft",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
       "created": "2014-12-10T15:48:00.586000Z",
       "edited": "2014-12-22T17:35:44.431407Z",
       "url": "https://swapi.co/api/starships/5/"
@@ -63,9 +61,7 @@
       "MGLT": "10",
       "starship_class": "Deep Space Mobile Battlestation",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
       "created": "2014-12-10T16:36:50.509000Z",
       "edited": "2014-12-22T17:35:44.452589Z",
       "url": "https://swapi.co/api/starships/9/"
@@ -167,12 +163,8 @@
       "hyperdrive_rating": "1.0",
       "MGLT": "105",
       "starship_class": "Starfighter",
-      "pilots": [
-        "https://swapi.co/api/people/4/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
+      "pilots": ["https://swapi.co/api/people/4/"],
+      "films": ["https://swapi.co/api/films/1/"],
       "created": "2014-12-12T11:21:32.991000Z",
       "edited": "2014-12-22T17:35:44.549047Z",
       "url": "https://swapi.co/api/starships/13/"
@@ -191,9 +183,7 @@
       "hyperdrive_rating": "3.0",
       "MGLT": "70",
       "starship_class": "Patrol craft",
-      "pilots": [
-        "https://swapi.co/api/people/22/"
-      ],
+      "pilots": ["https://swapi.co/api/people/22/"],
       "films": [
         "https://swapi.co/api/films/2/",
         "https://swapi.co/api/films/5/"
@@ -252,7 +242,7 @@
       "edited": "2014-12-22T17:35:44.848329Z",
       "url": "https://swapi.co/api/starships/23/"
     },
-     {
+    {
       "name": "Calamari Cruiser",
       "model": "MC80 Liberty type Star Cruiser",
       "manufacturer": "Mon Calamari shipyards",
@@ -267,9 +257,7 @@
       "MGLT": "60",
       "starship_class": "Star Cruiser",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T10:54:57.804000Z",
       "edited": "2014-12-22T17:35:44.957852Z",
       "url": "https://swapi.co/api/starships/27/"
@@ -288,12 +276,8 @@
       "hyperdrive_rating": "1.0",
       "MGLT": "120",
       "starship_class": "Starfighter",
-      "pilots": [
-        "https://swapi.co/api/people/29/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "pilots": ["https://swapi.co/api/people/29/"],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T11:16:34.542000Z",
       "edited": "2014-12-22T17:35:44.978754Z",
       "url": "https://swapi.co/api/starships/28/"
@@ -313,9 +297,7 @@
       "MGLT": "91",
       "starship_class": "Assault Starfighter",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T11:18:04.763000Z",
       "edited": "2014-12-22T17:35:45.011193Z",
       "url": "https://swapi.co/api/starships/29/"
@@ -335,9 +317,7 @@
       "MGLT": "unknown",
       "starship_class": "Space cruiser",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-19T17:01:31.488000Z",
       "edited": "2014-12-22T17:35:45.027308Z",
       "url": "https://swapi.co/api/starships/31/"
@@ -383,12 +363,8 @@
       "hyperdrive_rating": "1.8",
       "MGLT": "unknown",
       "starship_class": "yacht",
-      "pilots": [
-        "https://swapi.co/api/people/39/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "pilots": ["https://swapi.co/api/people/39/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-19T17:45:03.506000Z",
       "edited": "2014-12-22T17:35:45.091925Z",
       "url": "https://swapi.co/api/starships/40/"
@@ -407,12 +383,8 @@
       "hyperdrive_rating": "1.5",
       "MGLT": "unknown",
       "starship_class": "Space Transport",
-      "pilots": [
-        "https://swapi.co/api/people/44/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "pilots": ["https://swapi.co/api/people/44/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T09:39:56.116000Z",
       "edited": "2014-12-22T17:35:45.105522Z",
       "url": "https://swapi.co/api/starships/41/"
@@ -432,9 +404,7 @@
       "MGLT": "unknown",
       "starship_class": "Diplomatic barge",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T11:05:51.237000Z",
       "edited": "2014-12-22T17:35:45.124386Z",
       "url": "https://swapi.co/api/starships/43/"
@@ -454,9 +424,7 @@
       "MGLT": "unknown",
       "starship_class": "freighter",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T17:24:23.509000Z",
       "edited": "2014-12-22T17:35:45.135987Z",
       "url": "https://swapi.co/api/starships/47/"
@@ -501,12 +469,8 @@
       "hyperdrive_rating": "0.9",
       "MGLT": "unknown",
       "starship_class": "yacht",
-      "pilots": [
-        "https://swapi.co/api/people/35/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "pilots": ["https://swapi.co/api/people/35/"],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T17:46:46.847000Z",
       "edited": "2014-12-22T17:35:45.158969Z",
       "url": "https://swapi.co/api/starships/49/"
@@ -553,9 +517,7 @@
         "https://swapi.co/api/people/10/",
         "https://swapi.co/api/people/11/"
       ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:40:21.902000Z",
       "edited": "2014-12-22T17:35:45.195165Z",
       "url": "https://swapi.co/api/starships/59/"
@@ -575,9 +537,7 @@
       "MGLT": "unknown",
       "starship_class": "transport",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:48:40.409000Z",
       "edited": "2014-12-22T17:35:45.208584Z",
       "url": "https://swapi.co/api/starships/61/"
@@ -596,12 +556,8 @@
       "hyperdrive_rating": "unknown",
       "MGLT": "unknown",
       "starship_class": "fighter",
-      "pilots": [
-        "https://swapi.co/api/people/86/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
+      "pilots": ["https://swapi.co/api/people/86/"],
+      "films": ["https://swapi.co/api/films/7/"],
       "created": "2015-04-17T06:58:50.614475Z",
       "edited": "2015-04-17T06:58:50.614528Z",
       "url": "https://swapi.co/api/starships/77/"
@@ -668,9 +624,7 @@
       "MGLT": "unknown",
       "starship_class": "assault ship",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T18:08:42.926000Z",
       "edited": "2014-12-22T17:35:45.171653Z",
       "url": "https://swapi.co/api/starships/52/"
@@ -690,9 +644,7 @@
       "MGLT": "unknown",
       "starship_class": "yacht",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T18:37:56.969000Z",
       "edited": "2014-12-22T17:35:45.183075Z",
       "url": "https://swapi.co/api/starships/58/"
@@ -712,9 +664,7 @@
       "MGLT": "unknown",
       "starship_class": "star destroyer",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:52:56.232000Z",
       "edited": "2014-12-22T17:35:45.224540Z",
       "url": "https://swapi.co/api/starships/63/"
@@ -737,9 +687,7 @@
         "https://swapi.co/api/people/10/",
         "https://swapi.co/api/people/35/"
       ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:55:15.396000Z",
       "edited": "2014-12-22T17:35:45.258859Z",
       "url": "https://swapi.co/api/starships/64/"
@@ -762,9 +710,7 @@
         "https://swapi.co/api/people/10/",
         "https://swapi.co/api/people/11/"
       ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:56:57.468000Z",
       "edited": "2014-12-22T17:35:45.272349Z",
       "url": "https://swapi.co/api/starships/65/"
@@ -784,9 +730,7 @@
       "MGLT": "100",
       "starship_class": "starfighter",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T20:03:48.603000Z",
       "edited": "2014-12-22T17:35:45.287214Z",
       "url": "https://swapi.co/api/starships/66/"
@@ -809,9 +753,7 @@
         "https://swapi.co/api/people/10/",
         "https://swapi.co/api/people/79/"
       ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T20:38:05.031000Z",
       "edited": "2014-12-22T17:35:45.381900Z",
       "url": "https://swapi.co/api/starships/74/"
@@ -831,9 +773,7 @@
       "MGLT": "unknown",
       "starship_class": "starfighter",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T20:43:04.349000Z",
       "edited": "2014-12-22T17:35:45.396711Z",
       "url": "https://swapi.co/api/starships/75/"
@@ -877,9 +817,7 @@
       "MGLT": "unknown",
       "starship_class": "cruiser",
       "pilots": [],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T20:07:11.538000Z",
       "edited": "2017-04-19T10:53:32.700283Z",
       "url": "https://swapi.co/api/starships/68/"

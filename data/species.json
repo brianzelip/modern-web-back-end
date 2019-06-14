@@ -14,9 +14,7 @@
       "average_lifespan": "1000",
       "homeworld": "https://swapi.co/api/planets/24/",
       "language": "Huttese",
-      "people": [
-        "https://swapi.co/api/people/16/"
-      ],
+      "people": ["https://swapi.co/api/people/16/"],
       "films": [
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
@@ -36,9 +34,7 @@
       "average_lifespan": "900",
       "homeworld": "https://swapi.co/api/planets/28/",
       "language": "Galactic basic",
-      "people": [
-        "https://swapi.co/api/people/20/"
-      ],
+      "people": ["https://swapi.co/api/people/20/"],
       "films": [
         "https://swapi.co/api/films/2/",
         "https://swapi.co/api/films/5/",
@@ -61,12 +57,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/29/",
       "language": "Dosh",
-      "people": [
-        "https://swapi.co/api/people/24/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/2/"
-      ],
+      "people": ["https://swapi.co/api/people/24/"],
+      "films": ["https://swapi.co/api/films/2/"],
       "created": "2014-12-15T13:07:47.704000Z",
       "edited": "2014-12-20T21:36:42.151000Z",
       "url": "https://swapi.co/api/species/7/"
@@ -82,12 +74,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/31/",
       "language": "Mon Calamarian",
-      "people": [
-        "https://swapi.co/api/people/27/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "people": ["https://swapi.co/api/people/27/"],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T11:09:52.263000Z",
       "edited": "2014-12-20T21:36:42.153000Z",
       "url": "https://swapi.co/api/species/8/"
@@ -103,12 +91,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/7/",
       "language": "Ewokese",
-      "people": [
-        "https://swapi.co/api/people/30/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "people": ["https://swapi.co/api/people/30/"],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T11:22:00.285000Z",
       "edited": "2014-12-20T21:36:42.155000Z",
       "url": "https://swapi.co/api/species/9/"
@@ -124,12 +108,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/33/",
       "language": "Sullutese",
-      "people": [
-        "https://swapi.co/api/people/31/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
+      "people": ["https://swapi.co/api/people/31/"],
+      "films": ["https://swapi.co/api/films/3/"],
       "created": "2014-12-18T11:26:20.103000Z",
       "edited": "2014-12-20T21:36:42.157000Z",
       "url": "https://swapi.co/api/species/10/"
@@ -145,12 +125,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/18/",
       "language": "Neimoidia",
-      "people": [
-        "https://swapi.co/api/people/33/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/33/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-19T17:07:31.319000Z",
       "edited": "2014-12-20T21:36:42.160000Z",
       "url": "https://swapi.co/api/species/11/"
@@ -190,9 +166,7 @@
       "average_lifespan": "91",
       "homeworld": "https://swapi.co/api/planets/34/",
       "language": "Toydarian",
-      "people": [
-        "https://swapi.co/api/people/40/"
-      ],
+      "people": ["https://swapi.co/api/people/40/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/4/"
@@ -212,12 +186,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/35/",
       "language": "Dugese",
-      "people": [
-        "https://swapi.co/api/people/41/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/41/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-19T17:53:11.214000Z",
       "edited": "2014-12-20T21:36:42.167000Z",
       "url": "https://swapi.co/api/species/14/"
@@ -258,12 +228,8 @@
       "average_lifespan": "79",
       "homeworld": "https://swapi.co/api/planets/38/",
       "language": "Aleena",
-      "people": [
-        "https://swapi.co/api/people/47/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/47/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T09:53:16.481000Z",
       "edited": "2014-12-20T21:36:42.171000Z",
       "url": "https://swapi.co/api/species/16/"
@@ -279,12 +245,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/39/",
       "language": "vulpterish",
-      "people": [
-        "https://swapi.co/api/people/48/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/48/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T09:57:33.128000Z",
       "edited": "2014-12-20T21:36:42.173000Z",
       "url": "https://swapi.co/api/species/17/"
@@ -300,12 +262,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/40/",
       "language": "Xextese",
-      "people": [
-        "https://swapi.co/api/people/49/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/49/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T10:02:13.915000Z",
       "edited": "2014-12-20T21:36:42.175000Z",
       "url": "https://swapi.co/api/species/18/"
@@ -321,9 +279,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/41/",
       "language": "Tundan",
-      "people": [
-        "https://swapi.co/api/people/50/"
-      ],
+      "people": ["https://swapi.co/api/people/50/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -343,9 +299,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/43/",
       "language": "Cerean",
-      "people": [
-        "https://swapi.co/api/people/52/"
-      ],
+      "people": ["https://swapi.co/api/people/52/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -365,12 +319,8 @@
       "average_lifespan": "70",
       "homeworld": "https://swapi.co/api/planets/44/",
       "language": "Nautila",
-      "people": [
-        "https://swapi.co/api/people/53/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "people": ["https://swapi.co/api/people/53/"],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T10:18:58.610000Z",
       "edited": "2014-12-20T21:36:42.181000Z",
       "url": "https://swapi.co/api/species/21/"
@@ -390,9 +340,7 @@
         "https://swapi.co/api/people/44/",
         "https://swapi.co/api/people/54/"
       ],
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
       "created": "2014-12-20T10:26:59.894000Z",
       "edited": "2014-12-20T21:36:42.183000Z",
       "url": "https://swapi.co/api/species/22/"
@@ -408,9 +356,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/46/",
       "language": "unknown",
-      "people": [
-        "https://swapi.co/api/people/55/"
-      ],
+      "people": ["https://swapi.co/api/people/55/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -430,9 +376,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/47/",
       "language": "Iktotchese",
-      "people": [
-        "https://swapi.co/api/people/56/"
-      ],
+      "people": ["https://swapi.co/api/people/56/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -441,7 +385,7 @@
       "edited": "2014-12-20T21:36:42.188000Z",
       "url": "https://swapi.co/api/species/24/"
     },
-     {
+    {
       "name": "Quermian",
       "classification": "mammal",
       "designation": "sentient",
@@ -452,9 +396,7 @@
       "average_lifespan": "86",
       "homeworld": "https://swapi.co/api/planets/48/",
       "language": "Quermian",
-      "people": [
-        "https://swapi.co/api/people/57/"
-      ],
+      "people": ["https://swapi.co/api/people/57/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -474,9 +416,7 @@
       "average_lifespan": "70",
       "homeworld": "https://swapi.co/api/planets/49/",
       "language": "Kel Dor",
-      "people": [
-        "https://swapi.co/api/people/58/"
-      ],
+      "people": ["https://swapi.co/api/people/58/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -496,9 +436,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/50/",
       "language": "Chagria",
-      "people": [
-        "https://swapi.co/api/people/59/"
-      ],
+      "people": ["https://swapi.co/api/people/59/"],
       "films": [
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
@@ -518,9 +456,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/11/",
       "language": "Geonosian",
-      "people": [
-        "https://swapi.co/api/people/63/"
-      ],
+      "people": ["https://swapi.co/api/people/63/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
@@ -563,9 +499,7 @@
       "average_lifespan": "70",
       "homeworld": "https://swapi.co/api/planets/54/",
       "language": "Clawdite",
-      "people": [
-        "https://swapi.co/api/people/70/"
-      ],
+      "people": ["https://swapi.co/api/people/70/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
@@ -585,12 +519,8 @@
       "average_lifespan": "75",
       "homeworld": "https://swapi.co/api/planets/55/",
       "language": "besalisk",
-      "people": [
-        "https://swapi.co/api/people/71/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "people": ["https://swapi.co/api/people/71/"],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T17:28:28.821000Z",
       "edited": "2014-12-20T21:36:42.200000Z",
       "url": "https://swapi.co/api/species/31/"
@@ -610,9 +540,7 @@
         "https://swapi.co/api/people/72/",
         "https://swapi.co/api/people/73/"
       ],
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
       "created": "2014-12-20T17:31:24.838000Z",
       "edited": "2014-12-20T21:36:42.202000Z",
       "url": "https://swapi.co/api/species/32/"
@@ -628,9 +556,7 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/56/",
       "language": "Skakoan",
-      "people": [
-        "https://swapi.co/api/people/76/"
-      ],
+      "people": ["https://swapi.co/api/people/76/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
@@ -650,9 +576,7 @@
       "average_lifespan": "100",
       "homeworld": "https://swapi.co/api/planets/57/",
       "language": "Muun",
-      "people": [
-        "https://swapi.co/api/people/77/"
-      ],
+      "people": ["https://swapi.co/api/people/77/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
@@ -661,7 +585,7 @@
       "edited": "2014-12-20T21:36:42.207000Z",
       "url": "https://swapi.co/api/species/34/"
     },
-     {
+    {
       "name": "Togruta",
       "classification": "mammal",
       "designation": "sentient",
@@ -672,9 +596,7 @@
       "average_lifespan": "94",
       "homeworld": "https://swapi.co/api/planets/58/",
       "language": "Togruti",
-      "people": [
-        "https://swapi.co/api/people/78/"
-      ],
+      "people": ["https://swapi.co/api/people/78/"],
       "films": [
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
@@ -694,12 +616,8 @@
       "average_lifespan": "80",
       "homeworld": "https://swapi.co/api/planets/59/",
       "language": "Kaleesh",
-      "people": [
-        "https://swapi.co/api/people/79/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "people": ["https://swapi.co/api/people/79/"],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T19:45:42.537000Z",
       "edited": "2014-12-20T21:36:42.210000Z",
       "url": "https://swapi.co/api/species/36/"
@@ -715,12 +633,8 @@
       "average_lifespan": "700",
       "homeworld": "https://swapi.co/api/planets/12/",
       "language": "Utapese",
-      "people": [
-        "https://swapi.co/api/people/83/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
+      "people": ["https://swapi.co/api/people/83/"],
+      "films": ["https://swapi.co/api/films/6/"],
       "created": "2014-12-20T20:35:06.777000Z",
       "edited": "2014-12-20T21:36:42.212000Z",
       "url": "https://swapi.co/api/species/37/"
@@ -854,12 +768,8 @@
       "average_lifespan": "unknown",
       "homeworld": "https://swapi.co/api/planets/23/",
       "language": "Galactic Basic",
-      "people": [
-        "https://swapi.co/api/people/15/"
-      ],
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
+      "people": ["https://swapi.co/api/people/15/"],
+      "films": ["https://swapi.co/api/films/1/"],
       "created": "2014-12-10T17:05:26.471000Z",
       "edited": "2016-07-19T13:27:03.156498Z",
       "url": "https://swapi.co/api/species/4/"

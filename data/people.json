@@ -20,9 +20,7 @@
         "https://swapi.co/api/films/1/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [
         "https://swapi.co/api/vehicles/14/",
         "https://swapi.co/api/vehicles/30/"
@@ -53,9 +51,7 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/2/"
-      ],
+      "species": ["https://swapi.co/api/species/2/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T15:10:51.357000Z",
@@ -81,9 +77,7 @@
         "https://swapi.co/api/films/1/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/2/"
-      ],
+      "species": ["https://swapi.co/api/species/2/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T15:11:50.376000Z",
@@ -106,13 +100,9 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/13/"
-      ],
+      "starships": ["https://swapi.co/api/starships/13/"],
       "created": "2014-12-10T15:18:20.704000Z",
       "edited": "2014-12-20T21:17:50.313000Z",
       "url": "https://swapi.co/api/people/4/"
@@ -134,12 +124,8 @@
         "https://swapi.co/api/films/1/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/30/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
+      "vehicles": ["https://swapi.co/api/vehicles/30/"],
       "starships": [],
       "created": "2014-12-10T15:20:09.791000Z",
       "edited": "2014-12-20T21:17:50.315000Z",
@@ -160,9 +146,7 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T15:52:14.024000Z",
@@ -184,9 +168,7 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T15:53:41.121000Z",
@@ -203,12 +185,8 @@
       "birth_year": "unknown",
       "gender": "n/a",
       "homeworld": "https://swapi.co/api/planets/1/",
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/2/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
+      "species": ["https://swapi.co/api/species/2/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T15:57:50.959000Z",
@@ -225,16 +203,10 @@
       "birth_year": "24BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/1/",
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/12/"
-      ],
+      "starships": ["https://swapi.co/api/starships/12/"],
       "created": "2014-12-10T15:59:50.509000Z",
       "edited": "2014-12-20T21:17:50.323000Z",
       "url": "https://swapi.co/api/people/9/"
@@ -257,12 +229,8 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/38/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
+      "vehicles": ["https://swapi.co/api/vehicles/38/"],
       "starships": [
         "https://swapi.co/api/starships/48/",
         "https://swapi.co/api/starships/59/",
@@ -289,9 +257,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [
         "https://swapi.co/api/vehicles/44/",
         "https://swapi.co/api/vehicles/46/"
@@ -319,9 +285,7 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T16:26:56.138000Z",
@@ -345,12 +309,8 @@
         "https://swapi.co/api/films/1/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/3/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/19/"
-      ],
+      "species": ["https://swapi.co/api/species/3/"],
+      "vehicles": ["https://swapi.co/api/vehicles/19/"],
       "starships": [
         "https://swapi.co/api/starships/10/",
         "https://swapi.co/api/starships/22/"
@@ -375,9 +335,7 @@
         "https://swapi.co/api/films/1/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [
         "https://swapi.co/api/starships/10/",
@@ -397,12 +355,8 @@
       "birth_year": "44BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/23/",
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/4/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
+      "species": ["https://swapi.co/api/species/4/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T17:03:30.334000Z",
@@ -424,9 +378,7 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/5/"
-      ],
+      "species": ["https://swapi.co/api/species/5/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-10T17:11:31.638000Z",
@@ -448,15 +400,9 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/14/"
-      ],
-      "starships": [
-        "https://swapi.co/api/starships/12/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
+      "vehicles": ["https://swapi.co/api/vehicles/14/"],
+      "starships": ["https://swapi.co/api/starships/12/"],
       "created": "2014-12-12T11:08:06.469000Z",
       "edited": "2014-12-20T21:17:50.341000Z",
       "url": "https://swapi.co/api/people/18/"
@@ -471,16 +417,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/26/",
-      "films": [
-        "https://swapi.co/api/films/1/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/1/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/12/"
-      ],
+      "starships": ["https://swapi.co/api/starships/12/"],
       "created": "2014-12-12T11:16:56.569000Z",
       "edited": "2014-12-20T21:17:50.343000Z",
       "url": "https://swapi.co/api/people/19/"
@@ -502,9 +442,7 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/3/"
       ],
-      "species": [
-        "https://swapi.co/api/species/6/"
-      ],
+      "species": ["https://swapi.co/api/species/6/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-15T12:26:01.042000Z",
@@ -528,16 +466,14 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/3/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-15T12:48:05.971000Z",
       "edited": "2014-12-20T21:17:50.347000Z",
       "url": "https://swapi.co/api/people/21/"
     },
-     {
+    {
       "name": "Boba Fett",
       "height": "183",
       "mass": "78.2",
@@ -552,13 +488,9 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/3/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/21/"
-      ],
+      "starships": ["https://swapi.co/api/starships/21/"],
       "created": "2014-12-15T12:49:32.457000Z",
       "edited": "2014-12-20T21:17:50.349000Z",
       "url": "https://swapi.co/api/people/22/"
@@ -573,12 +505,8 @@
       "birth_year": "15BBY",
       "gender": "none",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/2/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/2/"
-      ],
+      "films": ["https://swapi.co/api/films/2/"],
+      "species": ["https://swapi.co/api/species/2/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-15T12:51:10.076000Z",
@@ -595,12 +523,8 @@
       "birth_year": "53BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/29/",
-      "films": [
-        "https://swapi.co/api/films/2/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/7/"
-      ],
+      "films": ["https://swapi.co/api/films/2/"],
+      "species": ["https://swapi.co/api/species/7/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-15T12:53:49.297000Z",
@@ -621,13 +545,9 @@
         "https://swapi.co/api/films/2/",
         "https://swapi.co/api/films/3/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/10/"
-      ],
+      "starships": ["https://swapi.co/api/starships/10/"],
       "created": "2014-12-15T12:56:32.683000Z",
       "edited": "2014-12-20T21:17:50.357000Z",
       "url": "https://swapi.co/api/people/25/"
@@ -642,12 +562,8 @@
       "birth_year": "37BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/6/",
-      "films": [
-        "https://swapi.co/api/films/2/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/2/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-15T13:01:57.178000Z",
@@ -668,9 +584,7 @@
         "https://swapi.co/api/films/3/",
         "https://swapi.co/api/films/7/"
       ],
-      "species": [
-        "https://swapi.co/api/species/8/"
-      ],
+      "species": ["https://swapi.co/api/species/8/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-18T11:07:50.584000Z",
@@ -687,12 +601,8 @@
       "birth_year": "48BBY",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/32/",
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-18T11:12:38.895000Z",
@@ -709,16 +619,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/28/"
-      ],
+      "starships": ["https://swapi.co/api/starships/28/"],
       "created": "2014-12-18T11:16:33.020000Z",
       "edited": "2014-12-20T21:17:50.367000Z",
       "url": "https://swapi.co/api/people/29/"
@@ -733,12 +637,8 @@
       "birth_year": "8BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/7/",
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/9/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
+      "species": ["https://swapi.co/api/species/9/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-18T11:21:58.954000Z",
@@ -755,16 +655,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/33/",
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/10/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
+      "species": ["https://swapi.co/api/species/10/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/10/"
-      ],
+      "starships": ["https://swapi.co/api/starships/10/"],
       "created": "2014-12-18T11:26:18.541000Z",
       "edited": "2014-12-20T21:17:50.371000Z",
       "url": "https://swapi.co/api/people/31/"
@@ -779,15 +673,9 @@
       "birth_year": "92BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/38/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/1/"],
+      "vehicles": ["https://swapi.co/api/vehicles/38/"],
       "starships": [],
       "created": "2014-12-19T16:54:53.618000Z",
       "edited": "2014-12-20T21:17:50.375000Z",
@@ -808,9 +696,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/11/"
-      ],
+      "species": ["https://swapi.co/api/species/11/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:05:57.357000Z",
@@ -827,12 +713,8 @@
       "birth_year": "91BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/9/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:21:45.915000Z",
@@ -853,9 +735,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/4/"
       ],
-      "species": [
-        "https://swapi.co/api/species/12/"
-      ],
+      "species": ["https://swapi.co/api/species/12/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:29:32.489000Z",
@@ -872,12 +752,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/12/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/12/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:32:56.741000Z",
@@ -894,12 +770,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/12/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/12/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:33:38.909000Z",
@@ -916,14 +788,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
       "species": [],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/40/"
-      ],
+      "starships": ["https://swapi.co/api/starships/40/"],
       "created": "2014-12-19T17:45:01.522000Z",
       "edited": "2014-12-20T21:17:50.392000Z",
       "url": "https://swapi.co/api/people/39/"
@@ -942,9 +810,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/4/"
       ],
-      "species": [
-        "https://swapi.co/api/species/13/"
-      ],
+      "species": ["https://swapi.co/api/species/13/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:48:54.647000Z",
@@ -961,12 +827,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/35/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/14/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/14/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:53:02.586000Z",
@@ -983,9 +845,7 @@
       "birth_year": "62BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
       "species": [],
       "vehicles": [],
       "starships": [],
@@ -1007,9 +867,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/4/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-19T17:57:41.191000Z",
@@ -1026,18 +884,10 @@
       "birth_year": "54BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/36/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/22/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/42/"
-      ],
-      "starships": [
-        "https://swapi.co/api/starships/41/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/22/"],
+      "vehicles": ["https://swapi.co/api/vehicles/42/"],
+      "starships": ["https://swapi.co/api/starships/41/"],
       "created": "2014-12-19T18:00:41.929000Z",
       "edited": "2014-12-20T21:17:50.403000Z",
       "url": "https://swapi.co/api/people/44/"
@@ -1052,12 +902,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/37/",
-      "films": [
-        "https://swapi.co/api/films/3/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/15/"
-      ],
+      "films": ["https://swapi.co/api/films/3/"],
+      "species": ["https://swapi.co/api/species/15/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T09:47:02.512000Z",
@@ -1079,9 +925,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/15/"
-      ],
+      "species": ["https://swapi.co/api/species/15/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T09:48:01.172000Z",
@@ -1098,12 +942,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/39/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/17/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/17/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T09:57:31.858000Z",
@@ -1120,12 +960,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/40/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/18/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/18/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:02:12.223000Z",
@@ -1142,12 +978,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/41/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/19/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/19/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:08:33.777000Z",
@@ -1169,9 +1001,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:12:30.846000Z",
@@ -1193,9 +1023,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/20/"
-      ],
+      "species": ["https://swapi.co/api/species/20/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:15:32.293000Z",
@@ -1217,16 +1045,14 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/21/"
-      ],
+      "species": ["https://swapi.co/api/species/21/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:18:57.202000Z",
       "edited": "2014-12-20T21:17:50.424000Z",
       "url": "https://swapi.co/api/people/53/"
     },
-     {
+    {
       "name": "Eeth Koth",
       "height": "171",
       "mass": "unknown",
@@ -1240,9 +1066,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/22/"
-      ],
+      "species": ["https://swapi.co/api/species/22/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:26:47.902000Z",
@@ -1263,9 +1087,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/23/"
-      ],
+      "species": ["https://swapi.co/api/species/23/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:29:11.661000Z",
@@ -1286,9 +1108,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/24/"
-      ],
+      "species": ["https://swapi.co/api/species/24/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:32:11.669000Z",
@@ -1305,12 +1125,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/48/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/25/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/25/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:34:48.725000Z",
@@ -1332,13 +1148,9 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/26/"
-      ],
+      "species": ["https://swapi.co/api/species/26/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/48/"
-      ],
+      "starships": ["https://swapi.co/api/starships/48/"],
       "created": "2014-12-20T10:49:19.859000Z",
       "edited": "2014-12-20T21:17:50.439000Z",
       "url": "https://swapi.co/api/people/58/"
@@ -1357,9 +1169,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/4/"
       ],
-      "species": [
-        "https://swapi.co/api/species/27/"
-      ],
+      "species": ["https://swapi.co/api/species/27/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T10:53:26.457000Z",
@@ -1376,16 +1186,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/39/"
-      ],
+      "starships": ["https://swapi.co/api/starships/39/"],
       "created": "2014-12-20T11:10:10.381000Z",
       "edited": "2014-12-20T21:17:50.445000Z",
       "url": "https://swapi.co/api/people/60/"
@@ -1400,12 +1204,8 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T11:11:39.630000Z",
@@ -1422,12 +1222,8 @@
       "birth_year": "82BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/1/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T15:59:03.958000Z",
@@ -1448,16 +1244,14 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/28/"
-      ],
+      "species": ["https://swapi.co/api/species/28/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:40:43.977000Z",
       "edited": "2014-12-20T21:17:50.453000Z",
       "url": "https://swapi.co/api/people/63/"
     },
-     {
+    {
       "name": "Luminara Unduli",
       "height": "170",
       "mass": "56.2",
@@ -1471,9 +1265,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/29/"
-      ],
+      "species": ["https://swapi.co/api/species/29/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:45:53.668000Z",
@@ -1490,12 +1282,8 @@
       "birth_year": "40BBY",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/51/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/29/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/29/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:46:40.440000Z",
@@ -1512,12 +1300,8 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/8/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:49:14.640000Z",
@@ -1538,12 +1322,8 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/55/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
+      "vehicles": ["https://swapi.co/api/vehicles/55/"],
       "starships": [],
       "created": "2014-12-20T16:52:14.726000Z",
       "edited": "2014-12-20T21:17:50.462000Z",
@@ -1563,9 +1343,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:53:08.575000Z",
@@ -1582,12 +1360,8 @@
       "birth_year": "66BBY",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/53/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T16:54:41.620000Z",
@@ -1604,15 +1378,9 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/54/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/30/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/45/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/30/"],
+      "vehicles": ["https://swapi.co/api/vehicles/45/"],
       "starships": [],
       "created": "2014-12-20T16:57:44.471000Z",
       "edited": "2014-12-20T21:17:50.468000Z",
@@ -1628,12 +1396,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/55/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/31/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/31/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:28:27.248000Z",
@@ -1650,12 +1414,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/10/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/32/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/32/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:30:50.416000Z",
@@ -1672,12 +1432,8 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/10/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/32/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/32/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:31:21.195000Z",
@@ -1694,12 +1450,8 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/9/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:32:51.996000Z",
@@ -1716,12 +1468,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/38/",
-      "films": [
-        "https://swapi.co/api/films/4/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/16/"
-      ],
+      "films": ["https://swapi.co/api/films/4/"],
+      "species": ["https://swapi.co/api/species/16/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T09:53:15.086000Z",
@@ -1759,12 +1507,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/56/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/33/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/33/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:53:52.607000Z",
@@ -1781,12 +1525,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/57/",
-      "films": [
-        "https://swapi.co/api/films/5/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/34/"
-      ],
+      "films": ["https://swapi.co/api/films/5/"],
+      "species": ["https://swapi.co/api/species/34/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T17:58:17.049000Z",
@@ -1807,9 +1547,7 @@
         "https://swapi.co/api/films/5/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/35/"
-      ],
+      "species": ["https://swapi.co/api/species/35/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T18:44:01.103000Z",
@@ -1826,18 +1564,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/59/",
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/36/"
-      ],
-      "vehicles": [
-        "https://swapi.co/api/vehicles/60/"
-      ],
-      "starships": [
-        "https://swapi.co/api/starships/74/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
+      "species": ["https://swapi.co/api/species/36/"],
+      "vehicles": ["https://swapi.co/api/vehicles/60/"],
+      "starships": ["https://swapi.co/api/starships/74/"],
       "created": "2014-12-20T19:43:53.348000Z",
       "edited": "2014-12-20T21:17:50.488000Z",
       "url": "https://swapi.co/api/people/79/"
@@ -1852,12 +1582,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/14/",
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/3/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
+      "species": ["https://swapi.co/api/species/3/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T19:46:34.209000Z",
@@ -1878,9 +1604,7 @@
         "https://swapi.co/api/films/6/",
         "https://swapi.co/api/films/1/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T19:49:35.583000Z",
@@ -1908,7 +1632,7 @@
       "edited": "2014-12-20T21:17:50.496000Z",
       "url": "https://swapi.co/api/people/82/"
     },
-     {
+    {
       "name": "Tion Medon",
       "height": "206",
       "mass": "80",
@@ -1918,12 +1642,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/12/",
-      "films": [
-        "https://swapi.co/api/films/6/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/37/"
-      ],
+      "films": ["https://swapi.co/api/films/6/"],
+      "species": ["https://swapi.co/api/species/37/"],
       "vehicles": [],
       "starships": [],
       "created": "2014-12-20T20:35:04.260000Z",
@@ -1940,12 +1660,8 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/7/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2015-04-17T06:52:40.793621Z",
@@ -1962,12 +1678,8 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/7/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [],
       "created": "2015-04-17T06:54:01.495077Z",
@@ -1984,16 +1696,10 @@
       "birth_year": "unknown",
       "gender": "male",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "films": ["https://swapi.co/api/films/7/"],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
-      "starships": [
-        "https://swapi.co/api/starships/77/"
-      ],
+      "starships": ["https://swapi.co/api/starships/77/"],
       "created": "2015-04-17T06:55:21.622786Z",
       "edited": "2015-04-17T06:55:21.622835Z",
       "url": "https://swapi.co/api/people/86/"
@@ -2008,12 +1714,8 @@
       "birth_year": "unknown",
       "gender": "none",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
-      "species": [
-        "https://swapi.co/api/species/2/"
-      ],
+      "films": ["https://swapi.co/api/films/7/"],
+      "species": ["https://swapi.co/api/species/2/"],
       "vehicles": [],
       "starships": [],
       "created": "2015-04-17T06:57:38.061346Z",
@@ -2030,9 +1732,7 @@
       "birth_year": "unknown",
       "gender": "female",
       "homeworld": "https://swapi.co/api/planets/28/",
-      "films": [
-        "https://swapi.co/api/films/7/"
-      ],
+      "films": ["https://swapi.co/api/films/7/"],
       "species": [],
       "vehicles": [],
       "starships": [],
@@ -2055,9 +1755,7 @@
         "https://swapi.co/api/films/4/",
         "https://swapi.co/api/films/6/"
       ],
-      "species": [
-        "https://swapi.co/api/species/1/"
-      ],
+      "species": ["https://swapi.co/api/species/1/"],
       "vehicles": [],
       "starships": [
         "https://swapi.co/api/starships/49/",
