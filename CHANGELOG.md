@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+## [0.7.0] - 2019-06-14
+
+### Meta
+
+- branch: local-data
+
+### Added/updated
+
+- data/: data directory for data files for each of the 7 swapi resources
+- controllers.js: Swap swapi.co urls out for local data
+
 ## [0.6.0] - 2019-06-02
 
 ### Meta
