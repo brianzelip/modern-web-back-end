@@ -1,7 +1,5 @@
 {
   "count": 61,
-  "next": "https://swapi.co/api/planets/?format=json&page=2",
-  "previous": null,
   "results": [
     {
       "name": "Alderaan",

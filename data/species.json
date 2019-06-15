@@ -1,7 +1,5 @@
 {
   "count": 37,
-  "next": "https://swapi.co/api/species/?format=json&page=2",
-  "previous": null,
   "results": [
     {
       "name": "Hutt",

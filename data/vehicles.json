@@ -1,7 +1,5 @@
 {
   "count": 39,
-  "next": "https://swapi.co/api/vehicles/?format=json&page=2",
-  "previous": null,
   "results": [
     {
       "name": "Sand Crawler",
