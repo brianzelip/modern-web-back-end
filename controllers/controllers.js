@@ -1,7 +1,7 @@
 // controllers control what happens when a user activates a given route
 
-// const axios = require('axios');
 const fs = require('fs');
+const axios = require('axios');
 
 exports.homePage = (req, res) => {
   res.render('index');
