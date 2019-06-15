@@ -23,9 +23,7 @@ exports.homePage = (req, res) => {
 
 exports.swapi = (req, res) => {
   const resource = req.params.resource;
-
-  const data = JSON.parse(fs.readFileSync(`../data/${resource}.json`, 'utf8'));
-  console.log('data is:::', data);
-
-  // res.send(data);
+  const filePath = `data/${resource}.json`;
+  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  res.send(data);
 };
