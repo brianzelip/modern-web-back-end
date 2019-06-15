@@ -14,8 +14,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added/updated
 
-- data/: data directory for data files for each of the 7 swapi resources
-- controllers.js: Swap swapi.co urls out for local data
+- data/: data directory for data files for each of the 6 swapi resources
+- controllers.js:
+  - create new 'get' controller that sends back local json data
+  - keep 'swapi' controller to show the students what it looks like to call out to a 3rd party service
+- routes.js: create new 'get' route for getting local data, keep swapi endpointt
 
 ## [0.6.0] - 2019-06-02
 
