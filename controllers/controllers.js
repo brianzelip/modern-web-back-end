@@ -1,9 +1,17 @@
 // controllers control what happens when a user activates a given route
 
+const fs = require('fs');
 const axios = require('axios');
 
 exports.homePage = (req, res) => {
   res.render('index');
+};
+
+exports.get = (req, res) => {
+  const resource = req.params.resource;
+  const filePath = `data/${resource}.json`;
+  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  res.send(data);
 };
 
 exports.swapi = (req, res) => {
