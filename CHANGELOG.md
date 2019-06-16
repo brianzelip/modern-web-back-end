@@ -6,7 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.7.0] - 2019-06-14
+## [0.8.0] - 2019-06-16
+
+### Meta
+
+- branch: flatten-data
+- reason: When data gets rendered for a given resource, such as vehicles, the data includes the list of films the vehicle was in. Currently this list of films data are urls as film ids, rather than film name. I want to render the film name, thus flattening the data down to string literals, not url ids for which the swapi.co reasoning is to link to the referenced resource.
+
+Each resource item has a url key that can be used to easily look up the name to replace the rendered url.
+
+### Added/updated
+
+- data/\*.json: replace urls in items with the corresponding resource name
+
+## [0.7.0] - 2019-06-15
 
 ### Meta
 
