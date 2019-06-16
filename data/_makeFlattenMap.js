@@ -18,4 +18,4 @@ filePaths.forEach(file => {
   OUTPUT.push({ [`${resource}`]: output });
 });
 
-fs.writeFileSync('_FLATTENED.json', JSON.stringify(OUTPUT, null, 2));
+fs.writeFileSync('_FlattenMap.json', JSON.stringify(OUTPUT, null, 2));
