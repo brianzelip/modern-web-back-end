@@ -13,10 +13,7 @@
       "homeworld": "https://swapi.co/api/planets/24/",
       "language": "Huttese",
       "people": ["https://swapi.co/api/people/16/"],
-      "films": [
-        "https://swapi.co/api/films/3/",
-        "https://swapi.co/api/films/1/"
-      ],
+      "films": ["Return of the Jedi", "A New Hope"],
       "created": "2014-12-10T17:12:50.410000Z",
       "edited": "2014-12-20T21:36:42.146000Z",
       "url": "https://swapi.co/api/species/5/"
@@ -34,11 +31,11 @@
       "language": "Galactic basic",
       "people": ["https://swapi.co/api/people/20/"],
       "films": [
-        "https://swapi.co/api/films/2/",
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/"
+        "The Empire Strikes Back",
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi"
       ],
       "created": "2014-12-15T12:27:22.877000Z",
       "edited": "2014-12-20T21:36:42.148000Z",
@@ -56,7 +53,7 @@
       "homeworld": "https://swapi.co/api/planets/29/",
       "language": "Dosh",
       "people": ["https://swapi.co/api/people/24/"],
-      "films": ["https://swapi.co/api/films/2/"],
+      "films": ["The Empire Strikes Back"],
       "created": "2014-12-15T13:07:47.704000Z",
       "edited": "2014-12-20T21:36:42.151000Z",
       "url": "https://swapi.co/api/species/7/"
@@ -73,7 +70,7 @@
       "homeworld": "https://swapi.co/api/planets/31/",
       "language": "Mon Calamarian",
       "people": ["https://swapi.co/api/people/27/"],
-      "films": ["https://swapi.co/api/films/3/"],
+      "films": ["Return of the Jedi"],
       "created": "2014-12-18T11:09:52.263000Z",
       "edited": "2014-12-20T21:36:42.153000Z",
       "url": "https://swapi.co/api/species/8/"
@@ -90,7 +87,7 @@
       "homeworld": "https://swapi.co/api/planets/7/",
       "language": "Ewokese",
       "people": ["https://swapi.co/api/people/30/"],
-      "films": ["https://swapi.co/api/films/3/"],
+      "films": ["Return of the Jedi"],
       "created": "2014-12-18T11:22:00.285000Z",
       "edited": "2014-12-20T21:36:42.155000Z",
       "url": "https://swapi.co/api/species/9/"
@@ -107,7 +104,7 @@
       "homeworld": "https://swapi.co/api/planets/33/",
       "language": "Sullutese",
       "people": ["https://swapi.co/api/people/31/"],
-      "films": ["https://swapi.co/api/films/3/"],
+      "films": ["Return of the Jedi"],
       "created": "2014-12-18T11:26:20.103000Z",
       "edited": "2014-12-20T21:36:42.157000Z",
       "url": "https://swapi.co/api/species/10/"
@@ -124,7 +121,7 @@
       "homeworld": "https://swapi.co/api/planets/18/",
       "language": "Neimoidia",
       "people": ["https://swapi.co/api/people/33/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-19T17:07:31.319000Z",
       "edited": "2014-12-20T21:36:42.160000Z",
       "url": "https://swapi.co/api/species/11/"
@@ -145,10 +142,7 @@
         "https://swapi.co/api/people/37/",
         "https://swapi.co/api/people/38/"
       ],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["Attack of the Clones", "The Phantom Menace"],
       "created": "2014-12-19T17:30:37.341000Z",
       "edited": "2014-12-20T21:36:42.163000Z",
       "url": "https://swapi.co/api/species/12/"
@@ -165,10 +159,7 @@
       "homeworld": "https://swapi.co/api/planets/34/",
       "language": "Toydarian",
       "people": ["https://swapi.co/api/people/40/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/"
-      ],
+      "films": ["Attack of the Clones", "The Phantom Menace"],
       "created": "2014-12-19T17:48:56.893000Z",
       "edited": "2014-12-20T21:36:42.165000Z",
       "url": "https://swapi.co/api/species/13/"
@@ -185,7 +176,7 @@
       "homeworld": "https://swapi.co/api/planets/35/",
       "language": "Dugese",
       "people": ["https://swapi.co/api/people/41/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-19T17:53:11.214000Z",
       "edited": "2014-12-20T21:36:42.167000Z",
       "url": "https://swapi.co/api/species/14/"
@@ -206,10 +197,10 @@
         "https://swapi.co/api/people/46/"
       ],
       "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/"
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi"
       ],
       "created": "2014-12-20T09:48:02.406000Z",
       "edited": "2014-12-20T21:36:42.169000Z",
@@ -227,7 +218,7 @@
       "homeworld": "https://swapi.co/api/planets/38/",
       "language": "Aleena",
       "people": ["https://swapi.co/api/people/47/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-20T09:53:16.481000Z",
       "edited": "2014-12-20T21:36:42.171000Z",
       "url": "https://swapi.co/api/species/16/"
@@ -244,7 +235,7 @@
       "homeworld": "https://swapi.co/api/planets/39/",
       "language": "vulpterish",
       "people": ["https://swapi.co/api/people/48/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-20T09:57:33.128000Z",
       "edited": "2014-12-20T21:36:42.173000Z",
       "url": "https://swapi.co/api/species/17/"
@@ -261,7 +252,7 @@
       "homeworld": "https://swapi.co/api/planets/40/",
       "language": "Xextese",
       "people": ["https://swapi.co/api/people/49/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-20T10:02:13.915000Z",
       "edited": "2014-12-20T21:36:42.175000Z",
       "url": "https://swapi.co/api/species/18/"
@@ -278,10 +269,7 @@
       "homeworld": "https://swapi.co/api/planets/41/",
       "language": "Tundan",
       "people": ["https://swapi.co/api/people/50/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:08:36.795000Z",
       "edited": "2014-12-20T21:36:42.177000Z",
       "url": "https://swapi.co/api/species/19/"
@@ -298,10 +286,7 @@
       "homeworld": "https://swapi.co/api/planets/43/",
       "language": "Cerean",
       "people": ["https://swapi.co/api/people/52/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:15:33.765000Z",
       "edited": "2014-12-20T21:36:42.179000Z",
       "url": "https://swapi.co/api/species/20/"
@@ -318,7 +303,7 @@
       "homeworld": "https://swapi.co/api/planets/44/",
       "language": "Nautila",
       "people": ["https://swapi.co/api/people/53/"],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-20T10:18:58.610000Z",
       "edited": "2014-12-20T21:36:42.181000Z",
       "url": "https://swapi.co/api/species/21/"
@@ -338,7 +323,7 @@
         "https://swapi.co/api/people/44/",
         "https://swapi.co/api/people/54/"
       ],
-      "films": ["https://swapi.co/api/films/4/"],
+      "films": ["The Phantom Menace"],
       "created": "2014-12-20T10:26:59.894000Z",
       "edited": "2014-12-20T21:36:42.183000Z",
       "url": "https://swapi.co/api/species/22/"
@@ -355,10 +340,7 @@
       "homeworld": "https://swapi.co/api/planets/46/",
       "language": "unknown",
       "people": ["https://swapi.co/api/people/55/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:29:13.798000Z",
       "edited": "2014-12-20T21:36:42.186000Z",
       "url": "https://swapi.co/api/species/23/"
@@ -375,10 +357,7 @@
       "homeworld": "https://swapi.co/api/planets/47/",
       "language": "Iktotchese",
       "people": ["https://swapi.co/api/people/56/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:32:13.046000Z",
       "edited": "2014-12-20T21:36:42.188000Z",
       "url": "https://swapi.co/api/species/24/"
@@ -395,10 +374,7 @@
       "homeworld": "https://swapi.co/api/planets/48/",
       "language": "Quermian",
       "people": ["https://swapi.co/api/people/57/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:34:50.827000Z",
       "edited": "2014-12-20T21:36:42.189000Z",
       "url": "https://swapi.co/api/species/25/"
@@ -415,10 +391,7 @@
       "homeworld": "https://swapi.co/api/planets/49/",
       "language": "Kel Dor",
       "people": ["https://swapi.co/api/people/58/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:49:21.692000Z",
       "edited": "2014-12-20T21:36:42.191000Z",
       "url": "https://swapi.co/api/species/26/"
@@ -435,10 +408,7 @@
       "homeworld": "https://swapi.co/api/planets/50/",
       "language": "Chagria",
       "people": ["https://swapi.co/api/people/59/"],
-      "films": [
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["The Phantom Menace", "Revenge of the Sith"],
       "created": "2014-12-20T10:53:28.795000Z",
       "edited": "2014-12-20T21:36:42.193000Z",
       "url": "https://swapi.co/api/species/27/"
@@ -455,10 +425,7 @@
       "homeworld": "https://swapi.co/api/planets/11/",
       "language": "Geonosian",
       "people": ["https://swapi.co/api/people/63/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T16:40:45.618000Z",
       "edited": "2014-12-20T21:36:42.195000Z",
       "url": "https://swapi.co/api/species/28/"
@@ -478,10 +445,7 @@
         "https://swapi.co/api/people/64/",
         "https://swapi.co/api/people/65/"
       ],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T16:46:48.290000Z",
       "edited": "2014-12-20T21:36:42.197000Z",
       "url": "https://swapi.co/api/species/29/"
@@ -498,10 +462,7 @@
       "homeworld": "https://swapi.co/api/planets/54/",
       "language": "Clawdite",
       "people": ["https://swapi.co/api/people/70/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T16:57:46.171000Z",
       "edited": "2014-12-20T21:36:42.199000Z",
       "url": "https://swapi.co/api/species/30/"
@@ -518,7 +479,7 @@
       "homeworld": "https://swapi.co/api/planets/55/",
       "language": "besalisk",
       "people": ["https://swapi.co/api/people/71/"],
-      "films": ["https://swapi.co/api/films/5/"],
+      "films": ["Attack of the Clones"],
       "created": "2014-12-20T17:28:28.821000Z",
       "edited": "2014-12-20T21:36:42.200000Z",
       "url": "https://swapi.co/api/species/31/"
@@ -538,7 +499,7 @@
         "https://swapi.co/api/people/72/",
         "https://swapi.co/api/people/73/"
       ],
-      "films": ["https://swapi.co/api/films/5/"],
+      "films": ["Attack of the Clones"],
       "created": "2014-12-20T17:31:24.838000Z",
       "edited": "2014-12-20T21:36:42.202000Z",
       "url": "https://swapi.co/api/species/32/"
@@ -555,10 +516,7 @@
       "homeworld": "https://swapi.co/api/planets/56/",
       "language": "Skakoan",
       "people": ["https://swapi.co/api/people/76/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T17:53:54.515000Z",
       "edited": "2014-12-20T21:36:42.204000Z",
       "url": "https://swapi.co/api/species/33/"
@@ -575,10 +533,7 @@
       "homeworld": "https://swapi.co/api/planets/57/",
       "language": "Muun",
       "people": ["https://swapi.co/api/people/77/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T17:58:19.088000Z",
       "edited": "2014-12-20T21:36:42.207000Z",
       "url": "https://swapi.co/api/species/34/"
@@ -595,10 +550,7 @@
       "homeworld": "https://swapi.co/api/planets/58/",
       "language": "Togruti",
       "people": ["https://swapi.co/api/people/78/"],
-      "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/6/"
-      ],
+      "films": ["Attack of the Clones", "Revenge of the Sith"],
       "created": "2014-12-20T18:44:03.246000Z",
       "edited": "2014-12-20T21:36:42.209000Z",
       "url": "https://swapi.co/api/species/35/"
@@ -615,7 +567,7 @@
       "homeworld": "https://swapi.co/api/planets/59/",
       "language": "Kaleesh",
       "people": ["https://swapi.co/api/people/79/"],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-20T19:45:42.537000Z",
       "edited": "2014-12-20T21:36:42.210000Z",
       "url": "https://swapi.co/api/species/36/"
@@ -632,7 +584,7 @@
       "homeworld": "https://swapi.co/api/planets/12/",
       "language": "Utapese",
       "people": ["https://swapi.co/api/people/83/"],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-20T20:35:06.777000Z",
       "edited": "2014-12-20T21:36:42.212000Z",
       "url": "https://swapi.co/api/species/37/"
@@ -653,11 +605,11 @@
         "https://swapi.co/api/people/80/"
       ],
       "films": [
-        "https://swapi.co/api/films/2/",
-        "https://swapi.co/api/films/7/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/",
-        "https://swapi.co/api/films/1/"
+        "The Empire Strikes Back",
+        "The Force Awakens",
+        "Revenge of the Sith",
+        "Return of the Jedi",
+        "A New Hope"
       ],
       "created": "2014-12-10T16:44:31.486000Z",
       "edited": "2015-01-30T21:23:03.074598Z",
@@ -682,13 +634,13 @@
         "https://swapi.co/api/people/87/"
       ],
       "films": [
-        "https://swapi.co/api/films/2/",
-        "https://swapi.co/api/films/7/",
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/",
-        "https://swapi.co/api/films/1/"
+        "The Empire Strikes Back",
+        "The Force Awakens",
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi",
+        "A New Hope"
       ],
       "created": "2014-12-10T15:16:16.259000Z",
       "edited": "2015-04-17T06:59:43.869528Z",
@@ -743,13 +695,13 @@
         "https://swapi.co/api/people/35/"
       ],
       "films": [
-        "https://swapi.co/api/films/2/",
-        "https://swapi.co/api/films/7/",
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/",
-        "https://swapi.co/api/films/1/"
+        "The Empire Strikes Back",
+        "The Force Awakens",
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi",
+        "A New Hope"
       ],
       "created": "2014-12-10T13:52:11.567000Z",
       "edited": "2015-04-17T06:59:55.850671Z",
@@ -767,7 +719,7 @@
       "homeworld": "https://swapi.co/api/planets/23/",
       "language": "Galactic Basic",
       "people": ["https://swapi.co/api/people/15/"],
-      "films": ["https://swapi.co/api/films/1/"],
+      "films": ["A New Hope"],
       "created": "2014-12-10T17:05:26.471000Z",
       "edited": "2016-07-19T13:27:03.156498Z",
       "url": "https://swapi.co/api/species/4/"

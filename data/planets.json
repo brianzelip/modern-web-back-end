@@ -16,10 +16,7 @@
         "https://swapi.co/api/people/68/",
         "https://swapi.co/api/people/81/"
       ],
-      "films": [
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/1/"
-      ],
+      "films": ["Revenge of the Sith", "A New Hope"],
       "created": "2014-12-10T11:35:48.479000Z",
       "edited": "2014-12-20T20:58:18.420000Z",
       "url": "https://swapi.co/api/planets/2/"
@@ -35,7 +32,7 @@
       "surface_water": "8",
       "population": "1000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/1/"],
+      "films": ["A New Hope"],
       "created": "2014-12-10T11:37:19.144000Z",
       "edited": "2014-12-20T20:58:18.421000Z",
       "url": "https://swapi.co/api/planets/3/"
@@ -51,7 +48,7 @@
       "surface_water": "100",
       "population": "unknown",
       "residents": [],
-      "films": ["https://swapi.co/api/films/2/"],
+      "films": ["The Empire Strikes Back"],
       "created": "2014-12-10T11:39:13.934000Z",
       "edited": "2014-12-20T20:58:18.423000Z",
       "url": "https://swapi.co/api/planets/4/"
@@ -68,9 +65,9 @@
       "population": "unknown",
       "residents": [],
       "films": [
-        "https://swapi.co/api/films/2/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/"
+        "The Empire Strikes Back",
+        "Revenge of the Sith",
+        "Return of the Jedi"
       ],
       "created": "2014-12-10T11:42:22.590000Z",
       "edited": "2014-12-20T20:58:18.425000Z",
@@ -87,7 +84,7 @@
       "surface_water": "0",
       "population": "6000000",
       "residents": ["https://swapi.co/api/people/26/"],
-      "films": ["https://swapi.co/api/films/2/"],
+      "films": ["The Empire Strikes Back"],
       "created": "2014-12-10T11:43:55.240000Z",
       "edited": "2014-12-20T20:58:18.427000Z",
       "url": "https://swapi.co/api/planets/6/"
@@ -103,7 +100,7 @@
       "surface_water": "8",
       "population": "30000000",
       "residents": ["https://swapi.co/api/people/30/"],
-      "films": ["https://swapi.co/api/films/3/"],
+      "films": ["Return of the Jedi"],
       "created": "2014-12-10T11:50:29.349000Z",
       "edited": "2014-12-20T20:58:18.429000Z",
       "url": "https://swapi.co/api/planets/7/"
@@ -132,10 +129,10 @@
         "https://swapi.co/api/people/35/"
       ],
       "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/"
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi"
       ],
       "created": "2014-12-10T11:52:31.066000Z",
       "edited": "2014-12-20T20:58:18.430000Z",
@@ -157,10 +154,10 @@
         "https://swapi.co/api/people/74/"
       ],
       "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/"
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi"
       ],
       "created": "2014-12-10T11:54:13.921000Z",
       "edited": "2014-12-20T20:58:18.432000Z",
@@ -181,7 +178,7 @@
         "https://swapi.co/api/people/72/",
         "https://swapi.co/api/people/73/"
       ],
-      "films": ["https://swapi.co/api/films/5/"],
+      "films": ["Attack of the Clones"],
       "created": "2014-12-10T12:45:06.577000Z",
       "edited": "2014-12-20T20:58:18.434000Z",
       "url": "https://swapi.co/api/planets/10/"
@@ -197,7 +194,7 @@
       "surface_water": "5",
       "population": "100000000000",
       "residents": ["https://swapi.co/api/people/63/"],
-      "films": ["https://swapi.co/api/films/5/"],
+      "films": ["Attack of the Clones"],
       "created": "2014-12-10T12:47:22.350000Z",
       "edited": "2014-12-20T20:58:18.437000Z",
       "url": "https://swapi.co/api/planets/11/"
@@ -213,7 +210,7 @@
       "surface_water": "0.9",
       "population": "95000000",
       "residents": ["https://swapi.co/api/people/83/"],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T12:49:01.491000Z",
       "edited": "2014-12-20T20:58:18.439000Z",
       "url": "https://swapi.co/api/planets/12/"
@@ -229,7 +226,7 @@
       "surface_water": "0",
       "population": "20000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T12:50:16.526000Z",
       "edited": "2014-12-20T20:58:18.440000Z",
       "url": "https://swapi.co/api/planets/13/"
@@ -248,7 +245,7 @@
         "https://swapi.co/api/people/13/",
         "https://swapi.co/api/people/80/"
       ],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:32:00.124000Z",
       "edited": "2014-12-20T20:58:18.442000Z",
       "url": "https://swapi.co/api/planets/14/"
@@ -264,7 +261,7 @@
       "surface_water": "0",
       "population": "1000000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:33:46.405000Z",
       "edited": "2014-12-20T20:58:18.444000Z",
       "url": "https://swapi.co/api/planets/15/"
@@ -280,7 +277,7 @@
       "surface_water": "unknown",
       "population": "19000000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:43:39.139000Z",
       "edited": "2014-12-20T20:58:18.446000Z",
       "url": "https://swapi.co/api/planets/16/"
@@ -296,7 +293,7 @@
       "surface_water": "unknown",
       "population": "8500000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:44:50.397000Z",
       "edited": "2014-12-20T20:58:18.447000Z",
       "url": "https://swapi.co/api/planets/17/"
@@ -312,7 +309,7 @@
       "surface_water": "unknown",
       "population": "10000000",
       "residents": ["https://swapi.co/api/people/33/"],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:46:28.704000Z",
       "edited": "2014-12-20T20:58:18.449000Z",
       "url": "https://swapi.co/api/planets/18/"
@@ -328,7 +325,7 @@
       "surface_water": "unknown",
       "population": "1400000000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/6/"],
+      "films": ["Revenge of the Sith"],
       "created": "2014-12-10T13:47:46.874000Z",
       "edited": "2014-12-20T20:58:18.450000Z",
       "url": "https://swapi.co/api/planets/19/"
@@ -459,7 +456,7 @@
       "surface_water": "10",
       "population": "4000000000",
       "residents": [],
-      "films": ["https://swapi.co/api/films/2/"],
+      "films": ["The Empire Strikes Back"],
       "created": "2014-12-15T12:23:41.661000Z",
       "edited": "2014-12-20T20:58:18.464000Z",
       "url": "https://swapi.co/api/planets/27/"
@@ -1032,11 +1029,11 @@
         "https://swapi.co/api/people/62/"
       ],
       "films": [
-        "https://swapi.co/api/films/5/",
-        "https://swapi.co/api/films/4/",
-        "https://swapi.co/api/films/6/",
-        "https://swapi.co/api/films/3/",
-        "https://swapi.co/api/films/1/"
+        "Attack of the Clones",
+        "The Phantom Menace",
+        "Revenge of the Sith",
+        "Return of the Jedi",
+        "A New Hope"
       ],
       "created": "2014-12-09T13:50:49.641000Z",
       "edited": "2014-12-21T20:48:04.175778Z",
@@ -1053,7 +1050,7 @@
       "surface_water": "unknown",
       "population": "unknown",
       "residents": [],
-      "films": ["https://swapi.co/api/films/7/"],
+      "films": ["The Force Awakens"],
       "created": "2015-04-17T06:55:57.556495Z",
       "edited": "2015-04-17T06:55:57.556551Z",
       "url": "https://swapi.co/api/planets/61/"
