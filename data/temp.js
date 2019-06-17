@@ -8,29 +8,29 @@ const starships = require('./starships.json');
 const vehicles = require('./vehicles.json');
 const _MAP = require('./_FlattenMap.json');
 
-const asString = JSON.stringify(films, null, 2);
+// const asString = JSON.stringify(films, null, 2);
 
-const ref = [
-  {
-    people: [
-      ['https://swapi.co/api/people/34/', 'Finis Valorum'],
-      ['https://swapi.co/api/people/36/', 'Jar Jar Binks'],
-      ['https://swapi.co/api/people/37/', 'Roos Tarpals'],
-      ['https://swapi.co/api/people/38/', 'Rugor Nass'],
-      ['https://swapi.co/api/people/39/', 'Ric Olié'],
-      ['https://swapi.co/api/people/40/', 'Watto'],
-      ['https://swapi.co/api/people/41/', 'Sebulba'],
-      ['https://swapi.co/api/people/42/', 'Quarsh Panaka'],
-      ['https://swapi.co/api/people/43/', 'Shmi Skywalker'],
-      ['https://swapi.co/api/people/44/', 'Darth Maul'],
-      ['https://swapi.co/api/people/45/', 'Bib Fortuna'],
-      ['https://swapi.co/api/people/46/', 'Ayla Secura'],
-      ['https://swapi.co/api/people/48/', 'Dud Bolt'],
-      ['https://swapi.co/api/people/49/', 'Gasgano'],
-      ['https://swapi.co/api/people/50/', 'Ben Quadinaros']
-    ]
-  }
-];
+// const ref = [
+//   {
+//     people: [
+//       ['https://swapi.co/api/people/34/', 'Finis Valorum'],
+//       ['https://swapi.co/api/people/36/', 'Jar Jar Binks'],
+//       ['https://swapi.co/api/people/37/', 'Roos Tarpals'],
+//       ['https://swapi.co/api/people/38/', 'Rugor Nass'],
+//       ['https://swapi.co/api/people/39/', 'Ric Olié'],
+//       ['https://swapi.co/api/people/40/', 'Watto'],
+//       ['https://swapi.co/api/people/41/', 'Sebulba'],
+//       ['https://swapi.co/api/people/42/', 'Quarsh Panaka'],
+//       ['https://swapi.co/api/people/43/', 'Shmi Skywalker'],
+//       ['https://swapi.co/api/people/44/', 'Darth Maul'],
+//       ['https://swapi.co/api/people/45/', 'Bib Fortuna'],
+//       ['https://swapi.co/api/people/46/', 'Ayla Secura'],
+//       ['https://swapi.co/api/people/48/', 'Dud Bolt'],
+//       ['https://swapi.co/api/people/49/', 'Gasgano'],
+//       ['https://swapi.co/api/people/50/', 'Ben Quadinaros']
+//     ]
+//   }
+// ];
 
 const oldData = {
   films,
@@ -41,7 +41,7 @@ const oldData = {
   vehicles
 };
 
-const newFilms = 'x';
+// const newFilms = 'x';
 
 _MAP.forEach(mapObj => {
   const resource = Object.keys(mapObj)[0];
@@ -53,10 +53,10 @@ _MAP.forEach(mapObj => {
   }, oldDataAsString);
 });
 
-const answer = ref[0].people.reduce((acc, item) => {
-  const re = new RegExp(`${item[0]}`, 'g');
-  return acc.replace(re, item[1]);
-}, asString);
+// const answer = ref[0].people.reduce((acc, item) => {
+//   const re = new RegExp(`${item[0]}`, 'g');
+//   return acc.replace(re, item[1]);
+// }, asString);
 
 // const re = new RegExp('https://swapi.co/api/species/1/', 'g');
 
@@ -68,4 +68,4 @@ const answer = ref[0].people.reduce((acc, item) => {
 
 // fs.writeFileSync('__tempOUTPUT.json', answer);
 
-function flattenData(resource) {}
+// function flattenData(resource) {}
