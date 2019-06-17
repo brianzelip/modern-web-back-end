@@ -13,7 +13,7 @@
       "homeworld": "https://swapi.co/api/planets/24/",
       "language": "Huttese",
       "people": [
-        "https://swapi.co/api/people/16/"
+        "Jabba Desilijic Tiure"
       ],
       "films": [
         "Return of the Jedi",
@@ -35,7 +35,7 @@
       "homeworld": "https://swapi.co/api/planets/28/",
       "language": "Galactic basic",
       "people": [
-        "https://swapi.co/api/people/20/"
+        "Yoda"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -60,7 +60,7 @@
       "homeworld": "https://swapi.co/api/planets/29/",
       "language": "Dosh",
       "people": [
-        "https://swapi.co/api/people/24/"
+        "Bossk"
       ],
       "films": [
         "The Empire Strikes Back"
@@ -81,7 +81,7 @@
       "homeworld": "https://swapi.co/api/planets/31/",
       "language": "Mon Calamarian",
       "people": [
-        "https://swapi.co/api/people/27/"
+        "Ackbar"
       ],
       "films": [
         "Return of the Jedi"
@@ -102,7 +102,7 @@
       "homeworld": "https://swapi.co/api/planets/7/",
       "language": "Ewokese",
       "people": [
-        "https://swapi.co/api/people/30/"
+        "Wicket Systri Warrick"
       ],
       "films": [
         "Return of the Jedi"
@@ -123,7 +123,7 @@
       "homeworld": "https://swapi.co/api/planets/33/",
       "language": "Sullutese",
       "people": [
-        "https://swapi.co/api/people/31/"
+        "Nien Nunb"
       ],
       "films": [
         "Return of the Jedi"
@@ -735,7 +735,7 @@
       "homeworld": "https://swapi.co/api/planets/14/",
       "language": "Shyriiwook",
       "people": [
-        "https://swapi.co/api/people/13/",
+        "Chewbacca",
         "https://swapi.co/api/people/80/"
       ],
       "films": [
@@ -763,8 +763,8 @@
       "people": [
         "C-3PO",
         "R2-D2",
-        "https://swapi.co/api/people/8/",
-        "https://swapi.co/api/people/23/",
+        "R5-D4",
+        "IG-88",
         "https://swapi.co/api/people/87/"
       ],
       "films": [
@@ -795,21 +795,21 @@
         "Luke Skywalker",
         "Darth Vader",
         "Leia Organa",
-        "https://swapi.co/api/people/6/",
-        "https://swapi.co/api/people/7/",
-        "https://swapi.co/api/people/9/",
-        "https://swapi.co/api/people/10/",
-        "https://swapi.co/api/people/11/",
-        "https://swapi.co/api/people/12/",
-        "https://swapi.co/api/people/14/",
-        "https://swapi.co/api/people/18/",
-        "https://swapi.co/api/people/19/",
-        "https://swapi.co/api/people/21/",
-        "https://swapi.co/api/people/22/",
-        "https://swapi.co/api/people/25/",
-        "https://swapi.co/api/people/26/",
-        "https://swapi.co/api/people/28/",
-        "https://swapi.co/api/people/29/",
+        "Owen Lars",
+        "Beru Whitesun lars",
+        "Biggs Darklighter",
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker",
+        "Wilhuff Tarkin",
+        "Han Solo",
+        "Wedge Antilles",
+        "Jek Tono Porkins",
+        "Palpatine",
+        "Boba Fett",
+        "Lando Calrissian",
+        "Lobot",
+        "Mon Mothma",
+        "Arvel Crynyd",
         "https://swapi.co/api/people/32/",
         "https://swapi.co/api/people/34/",
         "https://swapi.co/api/people/43/",
@@ -853,7 +853,7 @@
       "homeworld": "https://swapi.co/api/planets/23/",
       "language": "Galactic Basic",
       "people": [
-        "https://swapi.co/api/people/15/"
+        "Greedo"
       ],
       "films": [
         "A New Hope"

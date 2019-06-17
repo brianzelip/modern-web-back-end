@@ -98,7 +98,7 @@
       "vehicle_class": "airspeeder",
       "pilots": [
         "Luke Skywalker",
-        "https://swapi.co/api/people/18/"
+        "Wedge Antilles"
       ],
       "films": [
         "The Empire Strikes Back"
@@ -162,7 +162,7 @@
       "consumables": "none",
       "vehicle_class": "walker",
       "pilots": [
-        "https://swapi.co/api/people/13/"
+        "Chewbacca"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -389,7 +389,7 @@
       "consumables": "unknown",
       "vehicle_class": "submarine",
       "pilots": [
-        "https://swapi.co/api/people/10/",
+        "Obi-Wan Kenobi",
         "https://swapi.co/api/people/32/"
       ],
       "films": [
@@ -434,7 +434,7 @@
       "consumables": "none",
       "vehicle_class": "repulsorcraft",
       "pilots": [
-        "https://swapi.co/api/people/11/"
+        "Anakin Skywalker"
       ],
       "films": [
         "Attack of the Clones"
@@ -478,7 +478,7 @@
       "consumables": "unknown",
       "vehicle_class": "airspeeder",
       "pilots": [
-        "https://swapi.co/api/people/11/"
+        "Anakin Skywalker"
       ],
       "films": [
         "Attack of the Clones"

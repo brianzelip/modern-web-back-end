@@ -83,10 +83,10 @@
       "MGLT": "75",
       "starship_class": "Light freighter",
       "pilots": [
-        "https://swapi.co/api/people/13/",
-        "https://swapi.co/api/people/14/",
-        "https://swapi.co/api/people/25/",
-        "https://swapi.co/api/people/31/"
+        "Chewbacca",
+        "Han Solo",
+        "Lando Calrissian",
+        "Nien Nunb"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -138,9 +138,9 @@
       "starship_class": "Starfighter",
       "pilots": [
         "Luke Skywalker",
-        "https://swapi.co/api/people/9/",
-        "https://swapi.co/api/people/18/",
-        "https://swapi.co/api/people/19/"
+        "Biggs Darklighter",
+        "Wedge Antilles",
+        "Jek Tono Porkins"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -190,7 +190,7 @@
       "MGLT": "70",
       "starship_class": "Patrol craft",
       "pilots": [
-        "https://swapi.co/api/people/22/"
+        "Boba Fett"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -216,8 +216,8 @@
       "starship_class": "Armed government transport",
       "pilots": [
         "Luke Skywalker",
-        "https://swapi.co/api/people/13/",
-        "https://swapi.co/api/people/14/"
+        "Chewbacca",
+        "Han Solo"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -287,7 +287,7 @@
       "MGLT": "120",
       "starship_class": "Starfighter",
       "pilots": [
-        "https://swapi.co/api/people/29/"
+        "Arvel Crynyd"
       ],
       "films": [
         "Return of the Jedi"
@@ -355,7 +355,7 @@
       "MGLT": "unknown",
       "starship_class": "Starfighter",
       "pilots": [
-        "https://swapi.co/api/people/11/",
+        "Anakin Skywalker",
         "https://swapi.co/api/people/60/",
         "https://swapi.co/api/people/35/"
       ],
@@ -474,7 +474,7 @@
       "MGLT": "unknown",
       "starship_class": "Starfighter",
       "pilots": [
-        "https://swapi.co/api/people/10/",
+        "Obi-Wan Kenobi",
         "https://swapi.co/api/people/58/"
       ],
       "films": [
@@ -548,8 +548,8 @@
       "MGLT": "unknown",
       "starship_class": "capital ship",
       "pilots": [
-        "https://swapi.co/api/people/10/",
-        "https://swapi.co/api/people/11/"
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker"
       ],
       "films": [
         "Revenge of the Sith"
@@ -732,7 +732,7 @@
       "MGLT": "unknown",
       "starship_class": "yacht",
       "pilots": [
-        "https://swapi.co/api/people/10/",
+        "Obi-Wan Kenobi",
         "https://swapi.co/api/people/35/"
       ],
       "films": [
@@ -757,8 +757,8 @@
       "MGLT": "unknown",
       "starship_class": "starfighter",
       "pilots": [
-        "https://swapi.co/api/people/10/",
-        "https://swapi.co/api/people/11/"
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker"
       ],
       "films": [
         "Revenge of the Sith"
@@ -804,7 +804,7 @@
       "MGLT": "unknown",
       "starship_class": "starfighter",
       "pilots": [
-        "https://swapi.co/api/people/10/",
+        "Obi-Wan Kenobi",
         "https://swapi.co/api/people/79/"
       ],
       "films": [
