@@ -25,8 +25,21 @@ resources.forEach(resource => {
 
   const flatString = _MAP.reduce((acc, reMap) => {
     const mapObjectTitle = Object.keys(reMap)[0];
+
+    if (mapObjectTitle == resource) {
+      return acc;
+    }
+
     const solutions = reMap[mapObjectTitle];
+
+    solutions.forEach(solution => {
+      const lookup = new RegExp(solution[0], 'g');
+      const replacement = solution[1];
+      acc = acc.replace(lookup, replacement);
+    });
 
     return acc;
   }, unflatString);
+
+  fs.writeFileSync(`./__${resource}.json`, flatString);
 });
