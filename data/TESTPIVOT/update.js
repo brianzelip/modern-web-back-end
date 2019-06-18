@@ -1,4 +1,4 @@
-// update.js
+const fs = require('fs');
 
 const films = require('./films.json');
 const people = require('./people.json');
@@ -9,7 +9,7 @@ const vehicles = require('./vehicles.json');
 
 const _MAP = require('./_map.json');
 
-const resources = {
+const files = {
   films,
   people,
   planets,
@@ -18,6 +18,15 @@ const resources = {
   vehicles
 };
 
-Object.keys(resources).forEach(resource => {
-  const oldFile = resources[resource];
+const resources = Object.keys(files);
+
+resources.forEach(resource => {
+  const unflatString = JSON.stringify(files[resource], null, 2);
+
+  const flatString = _MAP.reduce((acc, reMap) => {
+    const mapObjectTitle = Object.keys(reMap)[0];
+    const solutions = reMap[mapObjectTitle];
+
+    return acc;
+  }, unflatString);
 });
