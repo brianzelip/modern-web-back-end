@@ -356,8 +356,8 @@
       "starship_class": "Starfighter",
       "pilots": [
         "Anakin Skywalker",
-        "Gregar Typho",
-        "Padmé Amidala"
+        "https://swapi.co/api/people/60/",
+        "https://swapi.co/api/people/35/"
       ],
       "films": [
         "Attack of the Clones",
@@ -382,7 +382,7 @@
       "MGLT": "unknown",
       "starship_class": "yacht",
       "pilots": [
-        "Ric Olié"
+        "https://swapi.co/api/people/39/"
       ],
       "films": [
         "The Phantom Menace"
@@ -406,7 +406,7 @@
       "MGLT": "unknown",
       "starship_class": "Space Transport",
       "pilots": [
-        "Darth Maul"
+        "https://swapi.co/api/people/44/"
       ],
       "films": [
         "The Phantom Menace"
@@ -475,7 +475,7 @@
       "starship_class": "Starfighter",
       "pilots": [
         "Obi-Wan Kenobi",
-        "Plo Koon"
+        "https://swapi.co/api/people/58/"
       ],
       "films": [
         "Attack of the Clones",
@@ -500,7 +500,7 @@
       "MGLT": "unknown",
       "starship_class": "yacht",
       "pilots": [
-        "Padmé Amidala"
+        "https://swapi.co/api/people/35/"
       ],
       "films": [
         "Attack of the Clones"
@@ -595,7 +595,7 @@
       "MGLT": "unknown",
       "starship_class": "fighter",
       "pilots": [
-        "Poe Dameron"
+        "https://swapi.co/api/people/86/"
       ],
       "films": [
         "The Force Awakens"
@@ -733,7 +733,7 @@
       "starship_class": "yacht",
       "pilots": [
         "Obi-Wan Kenobi",
-        "Padmé Amidala"
+        "https://swapi.co/api/people/35/"
       ],
       "films": [
         "Revenge of the Sith"
@@ -805,7 +805,7 @@
       "starship_class": "starfighter",
       "pilots": [
         "Obi-Wan Kenobi",
-        "Grievous"
+        "https://swapi.co/api/people/79/"
       ],
       "films": [
         "Revenge of the Sith"

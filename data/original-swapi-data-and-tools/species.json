@@ -10,7 +10,7 @@
       "hair_colors": "n/a",
       "eye_colors": "yellow, red",
       "average_lifespan": "1000",
-      "homeworld": "Nal Hutta",
+      "homeworld": "https://swapi.co/api/planets/24/",
       "language": "Huttese",
       "people": [
         "Jabba Desilijic Tiure"
@@ -32,7 +32,7 @@
       "hair_colors": "brown, white",
       "eye_colors": "brown, green, yellow",
       "average_lifespan": "900",
-      "homeworld": "unknown",
+      "homeworld": "https://swapi.co/api/planets/28/",
       "language": "Galactic basic",
       "people": [
         "Yoda"
@@ -57,7 +57,7 @@
       "hair_colors": "none",
       "eye_colors": "yellow, orange",
       "average_lifespan": "unknown",
-      "homeworld": "Trandosha",
+      "homeworld": "https://swapi.co/api/planets/29/",
       "language": "Dosh",
       "people": [
         "Bossk"
@@ -78,7 +78,7 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "unknown",
-      "homeworld": "Mon Cala",
+      "homeworld": "https://swapi.co/api/planets/31/",
       "language": "Mon Calamarian",
       "people": [
         "Ackbar"
@@ -99,7 +99,7 @@
       "hair_colors": "white, brown, black",
       "eye_colors": "orange, brown",
       "average_lifespan": "unknown",
-      "homeworld": "Endor",
+      "homeworld": "https://swapi.co/api/planets/7/",
       "language": "Ewokese",
       "people": [
         "Wicket Systri Warrick"
@@ -120,7 +120,7 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "unknown",
-      "homeworld": "Sullust",
+      "homeworld": "https://swapi.co/api/planets/33/",
       "language": "Sullutese",
       "people": [
         "Nien Nunb"
@@ -141,10 +141,10 @@
       "hair_colors": "none",
       "eye_colors": "red, pink",
       "average_lifespan": "unknown",
-      "homeworld": "Cato Neimoidia",
+      "homeworld": "https://swapi.co/api/planets/18/",
       "language": "Neimoidia",
       "people": [
-        "Nute Gunray"
+        "https://swapi.co/api/people/33/"
       ],
       "films": [
         "The Phantom Menace"
@@ -162,12 +162,12 @@
       "hair_colors": "none",
       "eye_colors": "orange",
       "average_lifespan": "unknown",
-      "homeworld": "Naboo",
+      "homeworld": "https://swapi.co/api/planets/8/",
       "language": "Gungan basic",
       "people": [
-        "Jar Jar Binks",
-        "Roos Tarpals",
-        "Rugor Nass"
+        "https://swapi.co/api/people/36/",
+        "https://swapi.co/api/people/37/",
+        "https://swapi.co/api/people/38/"
       ],
       "films": [
         "Attack of the Clones",
@@ -186,10 +186,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "91",
-      "homeworld": "Toydaria",
+      "homeworld": "https://swapi.co/api/planets/34/",
       "language": "Toydarian",
       "people": [
-        "Watto"
+        "https://swapi.co/api/people/40/"
       ],
       "films": [
         "Attack of the Clones",
@@ -208,10 +208,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow, blue",
       "average_lifespan": "unknown",
-      "homeworld": "Malastare",
+      "homeworld": "https://swapi.co/api/planets/35/",
       "language": "Dugese",
       "people": [
-        "Sebulba"
+        "https://swapi.co/api/people/41/"
       ],
       "films": [
         "The Phantom Menace"
@@ -229,11 +229,11 @@
       "hair_colors": "none",
       "eye_colors": "blue, brown, orange, pink",
       "average_lifespan": "unknown",
-      "homeworld": "Ryloth",
+      "homeworld": "https://swapi.co/api/planets/37/",
       "language": "Twi'leki",
       "people": [
-        "Bib Fortuna",
-        "Ayla Secura"
+        "https://swapi.co/api/people/45/",
+        "https://swapi.co/api/people/46/"
       ],
       "films": [
         "Attack of the Clones",
@@ -254,10 +254,10 @@
       "hair_colors": "none",
       "eye_colors": "unknown",
       "average_lifespan": "79",
-      "homeworld": "Aleen Minor",
+      "homeworld": "https://swapi.co/api/planets/38/",
       "language": "Aleena",
       "people": [
-        "Ratts Tyerell"
+        "https://swapi.co/api/people/47/"
       ],
       "films": [
         "The Phantom Menace"
@@ -275,10 +275,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "unknown",
-      "homeworld": "Vulpter",
+      "homeworld": "https://swapi.co/api/planets/39/",
       "language": "vulpterish",
       "people": [
-        "Dud Bolt"
+        "https://swapi.co/api/people/48/"
       ],
       "films": [
         "The Phantom Menace"
@@ -296,10 +296,10 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "unknown",
-      "homeworld": "Troiken",
+      "homeworld": "https://swapi.co/api/planets/40/",
       "language": "Xextese",
       "people": [
-        "Gasgano"
+        "https://swapi.co/api/people/49/"
       ],
       "films": [
         "The Phantom Menace"
@@ -317,10 +317,10 @@
       "hair_colors": "none",
       "eye_colors": "orange",
       "average_lifespan": "unknown",
-      "homeworld": "Tund",
+      "homeworld": "https://swapi.co/api/planets/41/",
       "language": "Tundan",
       "people": [
-        "Ben Quadinaros"
+        "https://swapi.co/api/people/50/"
       ],
       "films": [
         "The Phantom Menace",
@@ -339,10 +339,10 @@
       "hair_colors": "red, blond, black, white",
       "eye_colors": "hazel",
       "average_lifespan": "unknown",
-      "homeworld": "Cerea",
+      "homeworld": "https://swapi.co/api/planets/43/",
       "language": "Cerean",
       "people": [
-        "Ki-Adi-Mundi"
+        "https://swapi.co/api/people/52/"
       ],
       "films": [
         "The Phantom Menace",
@@ -361,10 +361,10 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "70",
-      "homeworld": "Glee Anselm",
+      "homeworld": "https://swapi.co/api/planets/44/",
       "language": "Nautila",
       "people": [
-        "Kit Fisto"
+        "https://swapi.co/api/people/53/"
       ],
       "films": [
         "The Phantom Menace"
@@ -382,11 +382,11 @@
       "hair_colors": "black",
       "eye_colors": "brown, orange",
       "average_lifespan": "unknown",
-      "homeworld": "Iridonia",
+      "homeworld": "https://swapi.co/api/planets/45/",
       "language": "Zabraki",
       "people": [
-        "Darth Maul",
-        "Eeth Koth"
+        "https://swapi.co/api/people/44/",
+        "https://swapi.co/api/people/54/"
       ],
       "films": [
         "The Phantom Menace"
@@ -404,10 +404,10 @@
       "hair_colors": "unknown",
       "eye_colors": "blue, indigo",
       "average_lifespan": "unknown",
-      "homeworld": "Tholoth",
+      "homeworld": "https://swapi.co/api/planets/46/",
       "language": "unknown",
       "people": [
-        "Adi Gallia"
+        "https://swapi.co/api/people/55/"
       ],
       "films": [
         "The Phantom Menace",
@@ -426,10 +426,10 @@
       "hair_colors": "none",
       "eye_colors": "orange",
       "average_lifespan": "unknown",
-      "homeworld": "Iktotch",
+      "homeworld": "https://swapi.co/api/planets/47/",
       "language": "Iktotchese",
       "people": [
-        "Saesee Tiin"
+        "https://swapi.co/api/people/56/"
       ],
       "films": [
         "The Phantom Menace",
@@ -448,10 +448,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "86",
-      "homeworld": "Quermia",
+      "homeworld": "https://swapi.co/api/planets/48/",
       "language": "Quermian",
       "people": [
-        "Yarael Poof"
+        "https://swapi.co/api/people/57/"
       ],
       "films": [
         "The Phantom Menace",
@@ -470,10 +470,10 @@
       "hair_colors": "none",
       "eye_colors": "black, silver",
       "average_lifespan": "70",
-      "homeworld": "Dorin",
+      "homeworld": "https://swapi.co/api/planets/49/",
       "language": "Kel Dor",
       "people": [
-        "Plo Koon"
+        "https://swapi.co/api/people/58/"
       ],
       "films": [
         "The Phantom Menace",
@@ -492,10 +492,10 @@
       "hair_colors": "none",
       "eye_colors": "blue",
       "average_lifespan": "unknown",
-      "homeworld": "Champala",
+      "homeworld": "https://swapi.co/api/planets/50/",
       "language": "Chagria",
       "people": [
-        "Mas Amedda"
+        "https://swapi.co/api/people/59/"
       ],
       "films": [
         "The Phantom Menace",
@@ -514,10 +514,10 @@
       "hair_colors": "none",
       "eye_colors": "green, hazel",
       "average_lifespan": "unknown",
-      "homeworld": "Geonosis",
+      "homeworld": "https://swapi.co/api/planets/11/",
       "language": "Geonosian",
       "people": [
-        "Poggle the Lesser"
+        "https://swapi.co/api/people/63/"
       ],
       "films": [
         "Attack of the Clones",
@@ -536,11 +536,11 @@
       "hair_colors": "black, brown",
       "eye_colors": "blue, green, red, yellow, brown, orange",
       "average_lifespan": "unknown",
-      "homeworld": "Mirial",
+      "homeworld": "https://swapi.co/api/planets/51/",
       "language": "Mirialan",
       "people": [
-        "Luminara Unduli",
-        "Barriss Offee"
+        "https://swapi.co/api/people/64/",
+        "https://swapi.co/api/people/65/"
       ],
       "films": [
         "Attack of the Clones",
@@ -559,10 +559,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "70",
-      "homeworld": "Zolan",
+      "homeworld": "https://swapi.co/api/planets/54/",
       "language": "Clawdite",
       "people": [
-        "Zam Wesell"
+        "https://swapi.co/api/people/70/"
       ],
       "films": [
         "Attack of the Clones",
@@ -581,10 +581,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "75",
-      "homeworld": "Ojom",
+      "homeworld": "https://swapi.co/api/planets/55/",
       "language": "besalisk",
       "people": [
-        "Dexter Jettster"
+        "https://swapi.co/api/people/71/"
       ],
       "films": [
         "Attack of the Clones"
@@ -602,11 +602,11 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "80",
-      "homeworld": "Kamino",
+      "homeworld": "https://swapi.co/api/planets/10/",
       "language": "Kaminoan",
       "people": [
-        "Lama Su",
-        "Taun We"
+        "https://swapi.co/api/people/72/",
+        "https://swapi.co/api/people/73/"
       ],
       "films": [
         "Attack of the Clones"
@@ -624,10 +624,10 @@
       "hair_colors": "none",
       "eye_colors": "unknown",
       "average_lifespan": "unknown",
-      "homeworld": "Skako",
+      "homeworld": "https://swapi.co/api/planets/56/",
       "language": "Skakoan",
       "people": [
-        "Wat Tambor"
+        "https://swapi.co/api/people/76/"
       ],
       "films": [
         "Attack of the Clones",
@@ -646,10 +646,10 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "100",
-      "homeworld": "Muunilinst",
+      "homeworld": "https://swapi.co/api/planets/57/",
       "language": "Muun",
       "people": [
-        "San Hill"
+        "https://swapi.co/api/people/77/"
       ],
       "films": [
         "Attack of the Clones",
@@ -668,10 +668,10 @@
       "hair_colors": "none",
       "eye_colors": "red, orange, yellow, green, blue, black",
       "average_lifespan": "94",
-      "homeworld": "Shili",
+      "homeworld": "https://swapi.co/api/planets/58/",
       "language": "Togruti",
       "people": [
-        "Shaak Ti"
+        "https://swapi.co/api/people/78/"
       ],
       "films": [
         "Attack of the Clones",
@@ -690,10 +690,10 @@
       "hair_colors": "none",
       "eye_colors": "yellow",
       "average_lifespan": "80",
-      "homeworld": "Kalee",
+      "homeworld": "https://swapi.co/api/planets/59/",
       "language": "Kaleesh",
       "people": [
-        "Grievous"
+        "https://swapi.co/api/people/79/"
       ],
       "films": [
         "Revenge of the Sith"
@@ -711,10 +711,10 @@
       "hair_colors": "none",
       "eye_colors": "black",
       "average_lifespan": "700",
-      "homeworld": "Utapau",
+      "homeworld": "https://swapi.co/api/planets/12/",
       "language": "Utapese",
       "people": [
-        "Tion Medon"
+        "https://swapi.co/api/people/83/"
       ],
       "films": [
         "Revenge of the Sith"
@@ -732,11 +732,11 @@
       "hair_colors": "black, brown",
       "eye_colors": "blue, green, yellow, brown, golden, red",
       "average_lifespan": "400",
-      "homeworld": "Kashyyyk",
+      "homeworld": "https://swapi.co/api/planets/14/",
       "language": "Shyriiwook",
       "people": [
         "Chewbacca",
-        "Tarfful"
+        "https://swapi.co/api/people/80/"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -765,7 +765,7 @@
         "R2-D2",
         "R5-D4",
         "IG-88",
-        "BB8"
+        "https://swapi.co/api/people/87/"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -789,7 +789,7 @@
       "hair_colors": "blonde, brown, black, red",
       "eye_colors": "brown, blue, green, hazel, grey, amber",
       "average_lifespan": "120",
-      "homeworld": "Coruscant",
+      "homeworld": "https://swapi.co/api/planets/9/",
       "language": "Galactic Basic",
       "people": [
         "Luke Skywalker",
@@ -810,23 +810,23 @@
         "Lobot",
         "Mon Mothma",
         "Arvel Crynyd",
-        "Qui-Gon Jinn",
-        "Finis Valorum",
-        "Shmi Skywalker",
-        "Mace Windu",
-        "Gregar Typho",
-        "Cordé",
-        "Cliegg Lars",
-        "Dormé",
-        "Dooku",
-        "Bail Prestor Organa",
-        "Jango Fett",
-        "Jocasta Nu",
-        "Raymus Antilles",
-        "Finn",
-        "Rey",
-        "Poe Dameron",
-        "Padmé Amidala"
+        "https://swapi.co/api/people/32/",
+        "https://swapi.co/api/people/34/",
+        "https://swapi.co/api/people/43/",
+        "https://swapi.co/api/people/51/",
+        "https://swapi.co/api/people/60/",
+        "https://swapi.co/api/people/61/",
+        "https://swapi.co/api/people/62/",
+        "https://swapi.co/api/people/66/",
+        "https://swapi.co/api/people/67/",
+        "https://swapi.co/api/people/68/",
+        "https://swapi.co/api/people/69/",
+        "https://swapi.co/api/people/74/",
+        "https://swapi.co/api/people/81/",
+        "https://swapi.co/api/people/84/",
+        "https://swapi.co/api/people/85/",
+        "https://swapi.co/api/people/86/",
+        "https://swapi.co/api/people/35/"
       ],
       "films": [
         "The Empire Strikes Back",
@@ -850,7 +850,7 @@
       "hair_colors": "n/a",
       "eye_colors": "black",
       "average_lifespan": "unknown",
-      "homeworld": "Rodia",
+      "homeworld": "https://swapi.co/api/planets/23/",
       "language": "Galactic Basic",
       "people": [
         "Greedo"

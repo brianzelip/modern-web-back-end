@@ -390,7 +390,7 @@
       "vehicle_class": "submarine",
       "pilots": [
         "Obi-Wan Kenobi",
-        "Qui-Gon Jinn"
+        "https://swapi.co/api/people/32/"
       ],
       "films": [
         "The Phantom Menace"
@@ -412,7 +412,7 @@
       "consumables": "unknown",
       "vehicle_class": "speeder",
       "pilots": [
-        "Darth Maul"
+        "https://swapi.co/api/people/44/"
       ],
       "films": [
         "The Phantom Menace"
@@ -456,7 +456,7 @@
       "consumables": "unknown",
       "vehicle_class": "airspeeder",
       "pilots": [
-        "Zam Wesell"
+        "https://swapi.co/api/people/70/"
       ],
       "films": [
         "Attack of the Clones"
@@ -541,7 +541,7 @@
       "consumables": "none",
       "vehicle_class": "wheeled walker",
       "pilots": [
-        "Grievous"
+        "https://swapi.co/api/people/79/"
       ],
       "films": [
         "Revenge of the Sith"
@@ -764,7 +764,7 @@
       "consumables": "unknown",
       "vehicle_class": "speeder",
       "pilots": [
-        "Dooku"
+        "https://swapi.co/api/people/67/"
       ],
       "films": [
         "Attack of the Clones"

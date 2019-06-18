@@ -6,7 +6,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.7.0] - 2019-06-14
+## [0.8.0] - 2019-06-18
+
+### Meta
+
+- branch: flatten-data
+- reason: When data gets rendered for a given resource, such as vehicles, the data includes the list of films the vehicle was in. Currently this list of films data are urls as film ids, rather than film name. I want to render the film name, thus flattening the data down to string literals, not url ids for which the swapi.co reasoning is to link to the referenced resource.
+
+Each resource item has a url key that can be used to easily look up the name to replace the rendered url.
+
+### Added/updated
+
+- data/\*.json: replace urls in items with the corresponding resource name (the "flat" data)
+- data/original-swapi-data-and-tools:
+  - Move here the (almost\*) original swapi data docs, with "unflattened" data
+  - move here the tools I built to "flatten" the data
+  - \*almost means:
+    1. the data files themselves are the concatenated version of each base resource's paginated results
+    2. I manually "flattened" some data (all of the 7 films, and up to `swapi.co/api/people/31/`) using global search and replace in vscode before building the tools to automate the task
+
+## [0.7.0] - 2019-06-15
 
 ### Meta
 
