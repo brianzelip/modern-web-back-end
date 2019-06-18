@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.8.0] - 2019-06-16
+## [0.8.0] - 2019-06-18
 
 ### Meta
 
@@ -17,7 +17,13 @@ Each resource item has a url key that can be used to easily look up the name to 
 
 ### Added/updated
 
-- data/\*.json: replace urls in items with the corresponding resource name
+- data/\*.json: replace urls in items with the corresponding resource name (the "flat" data)
+- data/original-swapi-data-and-tools:
+  - Move here the (almost\*) original swapi data docs, with "unflattened" data
+  - move here the tools I built to "flatten" the data
+  - \*almost means:
+    1. the data files themselves are the concatenated version of each base resource's paginated results
+    2. I manually "flattened" some data (all of the 7 films, and up to `swapi.co/api/people/31/`) using global search and replace in vscode before building the tools to automate the task
 
 ## [0.7.0] - 2019-06-15
 
