@@ -6,9 +6,10 @@ const planets = require('./planets.json');
 const species = require('./species.json');
 const starships = require('./starships.json');
 const vehicles = require('./vehicles.json');
-const _MAP = require('./_FlattenMap.json');
 
-const oldData = {
+const _MAP = require('./_map.json');
+
+const files = {
   films,
   people,
   planets,
@@ -17,23 +18,28 @@ const oldData = {
   vehicles
 };
 
-function arrOfFiles(resourceName) {
-  return Object.keys(oldData).filter(resource => resource !== resourceName);
-}
+const resources = Object.keys(files);
 
-_MAP.forEach(mapObj => {
-  const resource = Object.keys(mapObj)[0];
-  const filesToParse = arrOfFiles(resource);
+resources.forEach(resource => {
+  const unflatString = JSON.stringify(files[resource], null, 2);
 
-  filesToParse.forEach(fileName => {
-    const oldDataAsString = JSON.stringify(oldData[fileName], null, 2);
-    // console.log('\n\n\nmapObj.films!!::', mapObj.films);
-    // console.log('\n\n\nmapObj!!::', mapObj);
-    const newDataAsString = mapObj[resource].reduce((acc, item) => {
-      const re = new RegExp(`${item[0]}`, 'g');
-      return acc.replace(re, item[1]);
-    }, oldDataAsString);
+  const flatString = _MAP.reduce((acc, reMap) => {
+    const mapObjectTitle = Object.keys(reMap)[0];
 
-    fs.writeFileSync(`__${fileName}.json`, newDataAsString);
-  });
+    if (mapObjectTitle == resource) {
+      return acc;
+    }
+
+    const solutions = reMap[mapObjectTitle];
+
+    solutions.forEach(solution => {
+      const lookup = new RegExp(solution[0], 'g');
+      const replacement = solution[1];
+      acc = acc.replace(lookup, replacement);
+    });
+
+    return acc;
+  }, unflatString);
+
+  fs.writeFileSync(`./__${resource}.json`, flatString);
 });
