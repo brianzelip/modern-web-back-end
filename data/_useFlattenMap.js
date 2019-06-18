@@ -7,7 +7,7 @@ const species = require('./species.json');
 const starships = require('./starships.json');
 const vehicles = require('./vehicles.json');
 
-const _MAP = require('./_map.json');
+const _MAP = require('./_FlattenMap.json');
 
 const files = {
   films,
