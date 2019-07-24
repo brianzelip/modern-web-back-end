@@ -1,7 +1,3 @@
-// server.js
-// where your node app starts
-
-// init project
 const express = require('express');
 const cors = require('cors');
 
@@ -9,23 +5,28 @@ const routes = require('./routes/routes.js');
 
 const app = express();
 
-// we've started you off with Express,
-// but feel free to use whatever libs or frameworks you'd like through `package.json`.
+// see config info in the docs for Application Settings,
+// http://expressjs.com/en/api.html#app.settings.table
 
-// Application Settings, http://expressjs.com/en/api.html#app.settings.table
+// tell Express where the views are kept
+// VIEWS SET DOCS LINK
 app.set('views', `${process.cwd()}/views`);
 
-// use a template engine with views dir set above
+// use a template engine with views set above
 // http://expressjs.com/en/guide/using-template-engines.html
 app.set('view engine', 'pug');
 
-// http://expressjs.com/en/starter/static-files.html
-app.use(express.static('public'));
-
-// enable CORS header to allow cross-origin requests for data
+// use CORS to allow requests for data from outside of Glitch
+// CORS LINK
 app.use(cors());
 
-// create moduler, mountable route handler, http://expressjs.com/en/guide/routing.html#express-router
+
+// THIS COULD BE A GREAT CHANGE PLACE, WHERE WE START WRITING THE ROUTES
+// in this file, but then change into using routes at the application level
+// to demonstrate components
+
+// use code written in another project file (routes.js)
+// http://expressjs.com/en/guide/routing.html#express-router
 app.use('/', routes);
 
 // listen for requests :)
