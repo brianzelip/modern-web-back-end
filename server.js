@@ -5,8 +5,11 @@ const routes = require('./routes/routes.js');
 
 const app = express();
 
-// see config info in the docs for Application Settings,
-// http://expressjs.com/en/api.html#app.settings.table
+/**
+ * See the docs for more info on using Express
+ * http://expressjs.com/en/guide/
+ * http://expressjs.com/en/api.html
+ */
 
 // tell Express where the views are kept
 // VIEWS SET DOCS LINK
