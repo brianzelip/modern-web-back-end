@@ -20,11 +20,6 @@ app.set('view engine', 'pug');
 // CORS LINK
 app.use(cors());
 
-
-// THIS COULD BE A GREAT CHANGE PLACE, WHERE WE START WRITING THE ROUTES
-// in this file, but then change into using routes at the application level
-// to demonstrate components
-
 // use code written in another project file (routes.js)
 // http://expressjs.com/en/guide/routing.html#express-router
 app.use('/', routes);
