@@ -4,7 +4,6 @@
 // init project
 const express = require('express');
 const cors = require('cors');
-require('dotenv').config();
 
 const routes = require('./routes/routes.js');
 
