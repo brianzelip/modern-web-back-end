@@ -30,7 +30,7 @@ app.use(cors());
 app.use('/', routes);
 
 // listen for requests :)
-const listener = app.listen(process.env.PORT, function() {
+const listener = app.listen(3000, function() {
   console.log(
     `Your server is live at http://localhost:${listener.address().port}`
   );
