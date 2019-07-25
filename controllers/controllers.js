@@ -1,29 +1,14 @@
-// controllers control what happens when a user activates a given route
-
-const fs = require('fs');
-const axios = require('axios');
-
 exports.homePage = (req, res) => {
   res.render('index');
 };
 
+const myName = {
+  firstName: 'Brian',
+  lastName: 'Zelip',
+}
+
 exports.get = (req, res) => {
   const resource = req.params.resource;
-  const filePath = `data/${resource}.json`;
-  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  res.send(data);
-};
-
-exports.swapi = (req, res) => {
-  const url = 'https://swapi.co/api/';
-  const resource = req.params.resource;
-
-  axios
-    .get(`${url}${resource}/?format=json`)
-    .then(payload => {
-      res.send(payload.data);
-    })
-    .catch(error => {
-      console.log(error);
-    });
+  res.send(`The resource parameter sent in the GET request was: ${resource}`)
+  // res.send(myName);
 };
