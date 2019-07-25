@@ -6,8 +6,6 @@ const router = express.Router();
 
 router.get('/', controller.homePage);
 
-router.get('/get/:resource', controller.get);
-
-router.get('/swapi/:resource', controller.swapi);
+// router.get('/get/:resource', controller.get);
 
 module.exports = router;
