@@ -1,9 +1,9 @@
 # modern-web-back-end
 
-Back end source code for my TCAL 2019 workshop, **Build a Front End! Build a Back End!: A guided hands-on tour of modern web development tools and concepts**.
+Front end source code for the TCAL 2019 workshop, **Build a Back End! Build a Front End!: A guided hands-on tour of modern web development tools and concepts**.
 
 ## Related repositories
 
-- [Front end source code](https://github.com/brianzelip/modern-web-front-end)
+- [Workshop guide](https://github.com/brianzelip/modern-web-workshop)
 
-- [workshop material](https://github.com/brianzelip/modern-web-workshop)
+- [Front end source code](https://github.com/brianzelip/modern-web-front-end)
