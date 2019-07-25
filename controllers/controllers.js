@@ -1,5 +1,3 @@
-// controllers control what happens when a user activates a given route
-
 const fs = require('fs');
 const axios = require('axios');
 
@@ -14,16 +12,16 @@ exports.get = (req, res) => {
   res.send(data);
 };
 
-exports.swapi = (req, res) => {
-  const url = 'https://swapi.co/api/';
-  const resource = req.params.resource;
+// exports.swapi = (req, res) => {
+//   const url = 'https://swapi.co/api/';
+//   const resource = req.params.resource;
 
-  axios
-    .get(`${url}${resource}/?format=json`)
-    .then(payload => {
-      res.send(payload.data);
-    })
-    .catch(error => {
-      console.log(error);
-    });
-};
+//   axios
+//     .get(`${url}${resource}/?format=json`)
+//     .then(payload => {
+//       res.send(payload.data);
+//     })
+//     .catch(error => {
+//       console.log(error);
+//     });
+// };
